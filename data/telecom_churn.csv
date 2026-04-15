@@ -1,0 +1,1501 @@
+customer_id,gender,senior_citizen,tenure,monthly_charges,total_charges,contract_type,internet_service,num_support_calls,payment_method,has_partner,has_dependents,churned
+PT-0001,Male,0,36,42.04,1349.78,Month-to-month,Fiber optic,0,Electronic check,0,0,1
+PT-0002,Male,1,26,84.44,2328.04,Month-to-month,Fiber optic,1,Bank transfer,0,0,0
+PT-0003,Female,0,20,39.38,849.86,Month-to-month,Fiber optic,0,Bank transfer,0,1,0
+PT-0004,Male,0,11,69.68,842.22,One year,No,3,Mailed check,0,0,0
+PT-0005,Female,0,30,97.98,2833.69,Month-to-month,No,2,Bank transfer,0,1,0
+PT-0006,Male,0,60,54.15,3726.14,One year,Fiber optic,3,Bank transfer,0,0,0
+PT-0007,Female,0,35,25.96,1021.21,One year,Fiber optic,2,Credit card,0,0,0
+PT-0008,Female,1,55,100.8,5376.68,Month-to-month,No,4,Credit card,0,0,0
+PT-0009,Male,0,55,73.68,3912.31,One year,Fiber optic,1,Electronic check,0,1,0
+PT-0010,Female,0,15,46.42,624.89,Month-to-month,Fiber optic,4,Bank transfer,0,1,0
+PT-0011,Female,1,26,33.76,946.89,One year,Fiber optic,1,Bank transfer,1,0,0
+PT-0012,Female,0,31,25.21,870.14,Two year,DSL,1,Credit card,0,1,0
+PT-0013,Male,0,71,34.86,2495.61,One year,No,5,Mailed check,1,0,0
+PT-0014,Female,0,67,60.63,3754.99,Month-to-month,DSL,0,Mailed check,0,0,1
+PT-0015,Male,0,9,101.49,1011.96,Month-to-month,DSL,1,Mailed check,1,0,0
+PT-0016,Female,0,13,28.72,365.64,Month-to-month,Fiber optic,0,Electronic check,0,0,0
+PT-0017,Female,0,32,37.24,1204.65,Month-to-month,DSL,0,Electronic check,1,1,1
+PT-0018,Male,0,31,34.97,1079.4,Month-to-month,Fiber optic,2,Electronic check,0,0,1
+PT-0019,Female,0,59,45.67,2853.45,One year,Fiber optic,0,Mailed check,1,0,0
+PT-0020,Male,0,8,24.51,194.71,Two year,Fiber optic,0,Electronic check,0,0,1
+PT-0021,Male,0,52,30.79,1788.54,Month-to-month,Fiber optic,0,Bank transfer,1,0,0
+PT-0022,Female,0,34,55.62,1988.48,Month-to-month,DSL,0,Electronic check,0,0,0
+PT-0023,Male,0,69,39.18,2512.99,Two year,No,3,Mailed check,1,1,0
+PT-0024,Male,1,39,103.86,3568.83,Two year,DSL,0,Electronic check,0,0,0
+PT-0025,Male,0,27,81.87,2444.52,One year,DSL,2,Credit card,1,0,1
+PT-0026,Male,0,21,86.71,1849.14,Month-to-month,DSL,1,Electronic check,0,1,1
+PT-0027,Female,1,71,33.33,2101.94,Month-to-month,No,3,Bank transfer,0,1,0
+PT-0028,Male,0,72,99.57,6967.68,One year,DSL,0,Mailed check,0,0,0
+PT-0029,Male,0,43,90.41,3784.66,One year,Fiber optic,2,Electronic check,1,0,0
+PT-0030,Male,0,59,51.47,3328.74,Two year,DSL,3,Mailed check,1,0,0
+PT-0031,Male,0,45,77.73,3392.58,Two year,Fiber optic,2,Bank transfer,0,1,0
+PT-0032,Female,0,14,73.69,983.9,One year,Fiber optic,1,Electronic check,1,1,0
+PT-0033,Male,0,1,66.79,72.93,One year,No,1,Credit card,0,1,0
+PT-0034,Female,0,39,65.64,2688.13,Month-to-month,Fiber optic,0,Mailed check,0,0,0
+PT-0035,Female,0,39,56.55,2426.25,Month-to-month,DSL,2,Bank transfer,1,0,0
+PT-0036,Male,1,61,91.44,6347.3,One year,Fiber optic,0,Bank transfer,1,0,0
+PT-0037,Male,0,29,92.59,2401.04,Month-to-month,No,0,Credit card,1,1,0
+PT-0038,Female,0,52,41.96,2284.07,Month-to-month,Fiber optic,0,Electronic check,1,0,1
+PT-0039,Female,0,72,42.43,3374.21,Month-to-month,No,0,Bank transfer,1,1,0
+PT-0040,Female,1,58,100.75,6270.64,Month-to-month,DSL,0,Mailed check,1,1,0
+PT-0041,Male,0,57,26.97,1438.47,Month-to-month,DSL,0,Mailed check,1,1,0
+PT-0042,Male,0,54,56.68,3099.85,Month-to-month,DSL,1,Credit card,1,1,0
+PT-0043,Male,1,49,62.93,3493.14,Month-to-month,Fiber optic,4,Mailed check,1,0,0
+PT-0044,Female,0,50,50.25,2647.53,Month-to-month,DSL,0,Credit card,0,1,0
+PT-0045,Female,1,4,27.56,107.88,Two year,DSL,1,Credit card,1,0,0
+PT-0046,Female,0,54,42.7,2016.59,Month-to-month,Fiber optic,3,Bank transfer,0,1,1
+PT-0047,Male,0,32,37.94,1039.39,Month-to-month,DSL,0,Mailed check,1,1,0
+PT-0048,Female,0,15,90.0,1213.83,Month-to-month,Fiber optic,0,Bank transfer,1,0,0
+PT-0049,Male,0,32,29.17,1009.74,Two year,Fiber optic,6,Electronic check,1,1,0
+PT-0050,Female,0,65,78.28,4344.28,Month-to-month,Fiber optic,5,Credit card,1,1,0
+PT-0051,Female,0,56,35.85,2020.7,One year,Fiber optic,5,Credit card,1,1,0
+PT-0052,Female,0,12,45.1,533.21,One year,Fiber optic,0,Credit card,1,0,0
+PT-0053,Female,0,63,39.09,2682.71,Month-to-month,No,1,Electronic check,0,0,0
+PT-0054,Female,0,72,88.23,6715.82,One year,Fiber optic,0,Electronic check,0,0,0
+PT-0055,Male,0,48,62.59,3032.19,Month-to-month,Fiber optic,0,Bank transfer,1,0,0
+PT-0056,Male,0,16,86.86,1577.74,One year,DSL,4,Credit card,1,1,0
+PT-0057,Female,0,25,46.66,1117.82,Month-to-month,Fiber optic,2,Electronic check,1,1,0
+PT-0058,Female,0,2,71.67,142.02,Month-to-month,DSL,2,Electronic check,1,0,1
+PT-0059,Male,0,63,26.67,1745.46,Month-to-month,DSL,0,Mailed check,0,1,0
+PT-0060,Male,1,49,60.55,2915.97,Two year,No,1,Bank transfer,0,1,0
+PT-0061,Male,0,28,43.82,1072.8,Month-to-month,Fiber optic,3,Credit card,1,0,0
+PT-0062,Female,0,10,81.86,922.7,One year,Fiber optic,3,Mailed check,1,0,0
+PT-0063,Male,0,19,26.43,451.84,Month-to-month,Fiber optic,0,Electronic check,1,1,0
+PT-0064,Female,0,65,68.6,4375.74,One year,No,1,Bank transfer,1,0,0
+PT-0065,Male,0,6,88.68,480.23,One year,Fiber optic,0,Credit card,1,0,0
+PT-0066,Female,0,42,80.31,3735.01,Month-to-month,Fiber optic,8,Bank transfer,1,1,1
+PT-0067,Male,0,33,49.09,1848.48,Month-to-month,Fiber optic,4,Credit card,1,0,1
+PT-0068,Female,1,64,76.29,5263.39,Month-to-month,Fiber optic,1,Bank transfer,1,1,0
+PT-0069,Male,1,31,83.88,2452.65,Month-to-month,Fiber optic,2,Electronic check,1,0,0
+PT-0070,Male,0,38,65.8,2330.44,Two year,No,5,Mailed check,1,1,0
+PT-0071,Male,1,66,87.17,5125.85,Month-to-month,Fiber optic,3,Bank transfer,0,0,0
+PT-0072,Female,0,58,68.47,3786.74,One year,Fiber optic,0,Credit card,1,0,0
+PT-0073,Male,1,50,41.02,2220.54,Month-to-month,Fiber optic,0,Credit card,0,0,0
+PT-0074,Male,1,43,98.27,4699.96,Month-to-month,Fiber optic,0,Credit card,0,1,1
+PT-0075,Male,0,61,90.34,5122.27,One year,Fiber optic,3,Credit card,1,1,0
+PT-0076,Female,1,5,75.57,347.78,One year,DSL,2,Mailed check,0,0,0
+PT-0077,Male,0,22,82.46,2033.68,Month-to-month,Fiber optic,1,Mailed check,0,1,0
+PT-0078,Male,0,23,27.11,692.9,One year,DSL,3,Mailed check,0,0,0
+PT-0079,Female,0,2,100.9,199.7,Month-to-month,Fiber optic,6,Bank transfer,1,1,1
+PT-0080,Female,0,50,96.8,4268.86,Month-to-month,Fiber optic,4,Bank transfer,1,0,0
+PT-0081,Female,0,2,70.93,149.77,One year,DSL,0,Bank transfer,0,1,0
+PT-0082,Male,0,33,81.0,2850.16,One year,No,0,Electronic check,0,0,0
+PT-0083,Male,1,47,85.91,3541.29,Month-to-month,Fiber optic,2,Bank transfer,1,0,1
+PT-0084,Female,0,44,92.38,4026.1,Month-to-month,Fiber optic,2,Mailed check,1,1,0
+PT-0085,Female,0,34,68.29,2290.37,One year,Fiber optic,0,Bank transfer,0,1,0
+PT-0086,Male,1,72,49.52,3683.19,One year,Fiber optic,0,Credit card,1,1,0
+PT-0087,Male,0,5,47.39,236.43,Month-to-month,No,3,Credit card,0,0,0
+PT-0088,Female,1,53,104.51,5173.02,One year,DSL,3,Credit card,0,0,0
+PT-0089,Female,1,46,25.45,1091.99,Two year,No,2,Mailed check,0,0,0
+PT-0090,Male,0,27,26.17,762.8,Month-to-month,DSL,1,Mailed check,1,0,0
+PT-0091,Male,0,19,108.88,2093.68,One year,DSL,2,Bank transfer,0,1,0
+PT-0092,Male,0,7,31.41,214.66,Month-to-month,DSL,1,Credit card,1,1,0
+PT-0093,Female,1,29,105.09,2630.12,One year,No,0,Electronic check,0,0,0
+PT-0094,Female,0,63,84.12,5209.83,Two year,DSL,1,Mailed check,0,0,0
+PT-0095,Female,0,68,46.54,3169.99,Month-to-month,Fiber optic,4,Mailed check,1,0,0
+PT-0096,Female,0,59,55.89,3524.65,Month-to-month,DSL,3,Bank transfer,1,0,0
+PT-0097,Female,0,12,94.86,999.41,Month-to-month,Fiber optic,2,Bank transfer,0,0,0
+PT-0098,Female,0,37,74.04,2617.56,One year,DSL,0,Credit card,0,0,0
+PT-0099,Female,0,36,71.67,2817.92,Two year,No,3,Electronic check,1,0,0
+PT-0100,Female,0,45,20.55,1027.36,One year,Fiber optic,0,Mailed check,0,0,0
+PT-0101,Male,0,54,60.83,2947.22,Month-to-month,DSL,4,Electronic check,0,0,0
+PT-0102,Male,0,35,59.88,2048.03,One year,Fiber optic,1,Mailed check,0,0,0
+PT-0103,Female,1,63,67.42,4003.34,Month-to-month,No,3,Mailed check,0,0,0
+PT-0104,Male,0,64,87.23,5039.57,Month-to-month,Fiber optic,2,Bank transfer,0,0,0
+PT-0105,Male,0,3,61.38,160.82,Month-to-month,Fiber optic,0,Bank transfer,0,0,1
+PT-0106,Female,0,59,94.88,6302.87,Month-to-month,No,3,Mailed check,1,1,0
+PT-0107,Male,0,40,87.12,3193.72,One year,DSL,0,Mailed check,1,0,0
+PT-0108,Male,0,14,33.18,422.33,One year,Fiber optic,0,Electronic check,0,1,0
+PT-0109,Female,1,42,97.78,4263.5,Month-to-month,DSL,0,Bank transfer,0,0,0
+PT-0110,Female,0,58,23.38,1302.64,Month-to-month,Fiber optic,2,Electronic check,1,0,0
+PT-0111,Male,0,25,48.94,1214.55,Month-to-month,DSL,5,Bank transfer,0,1,0
+PT-0112,Male,0,57,109.19,6268.77,One year,Fiber optic,4,Bank transfer,1,0,0
+PT-0113,Male,0,9,49.67,454.8,Month-to-month,DSL,5,Mailed check,1,0,0
+PT-0114,Male,0,40,107.09,4538.66,Month-to-month,Fiber optic,0,Electronic check,1,1,0
+PT-0115,Female,0,68,28.41,2030.67,One year,DSL,0,Bank transfer,1,0,0
+PT-0116,Male,0,10,46.62,506.5,One year,Fiber optic,6,Electronic check,1,1,1
+PT-0117,Female,0,21,36.28,805.96,One year,No,1,Bank transfer,0,0,0
+PT-0118,Female,0,69,41.53,3265.83,One year,No,1,Mailed check,1,1,0
+PT-0119,Female,0,37,90.03,3334.01,Month-to-month,DSL,2,Bank transfer,0,1,0
+PT-0120,Female,1,14,84.03,1182.03,Month-to-month,DSL,4,Mailed check,1,0,0
+PT-0121,Male,0,12,105.18,1156.91,Month-to-month,DSL,2,Bank transfer,0,0,0
+PT-0122,Female,0,4,48.68,171.3,One year,DSL,2,Mailed check,0,0,0
+PT-0123,Female,0,61,60.37,3135.99,Month-to-month,DSL,3,Credit card,0,0,0
+PT-0124,Male,0,31,57.78,1949.11,Month-to-month,DSL,0,Credit card,0,1,0
+PT-0125,Male,0,38,58.63,2304.68,Month-to-month,Fiber optic,1,Bank transfer,0,1,0
+PT-0126,Male,0,61,23.92,1409.6,Month-to-month,Fiber optic,1,Bank transfer,0,0,0
+PT-0127,Male,1,43,32.01,1315.44,Month-to-month,Fiber optic,3,Credit card,0,0,1
+PT-0128,Female,0,38,38.14,1575.89,Two year,DSL,0,Bank transfer,1,1,0
+PT-0129,Male,0,37,52.13,2091.32,Two year,DSL,3,Credit card,1,0,0
+PT-0130,Male,0,64,53.06,3698.71,Month-to-month,DSL,3,Credit card,0,0,0
+PT-0131,Male,1,38,48.91,1624.44,One year,DSL,0,Credit card,1,0,1
+PT-0132,Female,1,56,44.71,2864.32,Two year,DSL,0,Credit card,1,1,0
+PT-0133,Male,0,19,96.38,1929.06,Month-to-month,DSL,2,Bank transfer,1,1,1
+PT-0134,Male,0,48,53.48,2769.64,One year,Fiber optic,4,Credit card,1,1,0
+PT-0135,Male,0,24,64.91,1505.02,One year,DSL,1,Bank transfer,1,0,0
+PT-0136,Male,0,23,100.88,2282.03,Month-to-month,Fiber optic,4,Bank transfer,1,1,1
+PT-0137,Female,0,21,84.06,1991.56,One year,Fiber optic,0,Mailed check,0,0,0
+PT-0138,Male,0,71,71.5,5026.86,Two year,DSL,1,Electronic check,0,0,0
+PT-0139,Female,1,53,89.22,5187.35,Month-to-month,No,0,Bank transfer,0,1,0
+PT-0140,Male,0,56,65.26,4058.26,Two year,Fiber optic,0,Bank transfer,0,0,0
+PT-0141,Male,0,67,100.54,7435.26,Month-to-month,Fiber optic,1,Bank transfer,0,1,0
+PT-0142,Male,0,44,95.83,4296.99,Two year,DSL,1,Electronic check,1,1,0
+PT-0143,Female,1,4,64.82,269.17,Month-to-month,No,0,Credit card,1,0,1
+PT-0144,Male,0,57,57.41,3237.46,Month-to-month,DSL,2,Bank transfer,1,0,1
+PT-0145,Female,1,72,29.56,1963.42,Month-to-month,Fiber optic,2,Credit card,1,0,0
+PT-0146,Male,0,41,37.09,1365.28,Two year,Fiber optic,2,Bank transfer,1,0,0
+PT-0147,Female,1,59,107.0,5773.51,Month-to-month,DSL,0,Credit card,1,1,1
+PT-0148,Male,0,18,99.42,1911.7,One year,Fiber optic,2,Credit card,0,1,0
+PT-0149,Female,1,37,26.62,986.2,One year,DSL,5,Electronic check,0,0,0
+PT-0150,Female,1,47,87.95,3760.45,One year,Fiber optic,1,Electronic check,0,0,0
+PT-0151,Female,1,59,33.4,2203.01,Month-to-month,No,1,Bank transfer,1,1,0
+PT-0152,Female,1,39,62.74,2092.04,Month-to-month,DSL,3,Credit card,1,1,0
+PT-0153,Male,1,61,43.9,2802.9,Two year,Fiber optic,2,Credit card,0,1,0
+PT-0154,Female,0,32,22.84,829.16,Month-to-month,DSL,2,Bank transfer,1,0,0
+PT-0155,Male,0,65,89.75,6569.71,Two year,Fiber optic,3,Mailed check,1,1,0
+PT-0156,Female,0,23,61.37,1425.54,One year,Fiber optic,2,Bank transfer,1,0,0
+PT-0157,Female,1,39,40.24,1792.01,Month-to-month,DSL,2,Bank transfer,1,0,0
+PT-0158,Female,0,16,71.61,1160.61,Two year,Fiber optic,5,Bank transfer,0,0,1
+PT-0159,Male,0,57,79.04,4839.58,Month-to-month,No,1,Bank transfer,0,0,0
+PT-0160,Male,0,7,80.29,567.26,One year,DSL,4,Credit card,1,1,0
+PT-0161,Male,0,71,108.01,6881.76,One year,No,0,Bank transfer,1,0,0
+PT-0162,Male,1,30,68.16,2181.67,Two year,No,2,Mailed check,1,0,0
+PT-0163,Male,0,64,36.77,2529.07,Two year,DSL,3,Electronic check,1,0,0
+PT-0164,Female,0,65,62.12,3665.69,Month-to-month,DSL,2,Credit card,1,1,0
+PT-0165,Female,0,25,35.79,990.35,Two year,No,1,Electronic check,0,0,0
+PT-0166,Male,0,34,54.52,1824.06,Month-to-month,DSL,1,Electronic check,1,1,0
+PT-0167,Male,0,16,61.89,889.15,One year,No,4,Electronic check,1,0,0
+PT-0168,Male,0,62,33.79,2250.68,One year,Fiber optic,0,Credit card,0,0,0
+PT-0169,Male,1,58,67.54,3754.89,Two year,DSL,4,Mailed check,0,0,0
+PT-0170,Female,0,27,84.52,2274.39,Two year,Fiber optic,0,Electronic check,1,0,0
+PT-0171,Female,1,8,70.29,591.47,Month-to-month,DSL,1,Mailed check,0,0,0
+PT-0172,Male,1,8,104.11,725.19,Two year,DSL,2,Credit card,0,0,0
+PT-0173,Female,0,49,60.37,3328.29,Month-to-month,DSL,5,Mailed check,1,0,1
+PT-0174,Female,1,17,85.51,1332.73,Month-to-month,DSL,1,Bank transfer,1,1,0
+PT-0175,Female,1,49,94.1,4261.64,Month-to-month,DSL,4,Electronic check,0,1,0
+PT-0176,Male,0,27,26.06,723.45,Month-to-month,Fiber optic,0,Electronic check,0,1,1
+PT-0177,Female,0,70,39.55,3070.6,Month-to-month,Fiber optic,1,Bank transfer,1,0,0
+PT-0178,Male,1,29,57.22,1547.45,One year,Fiber optic,5,Mailed check,1,1,0
+PT-0179,Female,0,68,48.69,3227.81,Month-to-month,Fiber optic,2,Mailed check,1,1,1
+PT-0180,Female,0,72,57.14,4011.03,One year,Fiber optic,0,Bank transfer,0,0,0
+PT-0181,Female,0,12,68.21,899.41,Month-to-month,Fiber optic,1,Electronic check,0,1,0
+PT-0182,Male,0,27,98.25,2519.82,Two year,DSL,1,Mailed check,0,1,0
+PT-0183,Female,0,27,55.7,1386.29,Month-to-month,DSL,0,Bank transfer,1,0,0
+PT-0184,Female,0,13,92.25,1279.27,One year,DSL,2,Mailed check,1,0,0
+PT-0185,Male,0,3,43.47,147.42,One year,Fiber optic,3,Credit card,0,0,0
+PT-0186,Female,0,63,106.99,7026.89,Month-to-month,DSL,3,Bank transfer,0,0,0
+PT-0187,Female,0,70,109.13,8686.96,One year,No,5,Electronic check,0,0,1
+PT-0188,Male,0,20,20.82,417.12,Month-to-month,Fiber optic,3,Credit card,1,0,1
+PT-0189,Female,0,3,67.65,189.24,Two year,DSL,3,Mailed check,0,0,0
+PT-0190,Male,0,68,42.72,2778.11,One year,DSL,0,Credit card,1,1,0
+PT-0191,Male,0,11,78.84,960.44,One year,DSL,0,Electronic check,0,1,1
+PT-0192,Female,0,43,70.93,3377.52,Month-to-month,Fiber optic,3,Electronic check,0,0,0
+PT-0193,Female,0,6,103.17,653.27,Month-to-month,Fiber optic,1,Bank transfer,0,0,0
+PT-0194,Female,0,39,34.62,1245.06,Two year,Fiber optic,0,Bank transfer,1,1,0
+PT-0195,Male,1,45,24.83,1096.26,Two year,DSL,2,Credit card,1,0,0
+PT-0196,Female,0,30,52.02,1767.13,Month-to-month,Fiber optic,0,Credit card,0,1,0
+PT-0197,Male,0,11,44.12,467.85,One year,DSL,0,Electronic check,0,0,0
+PT-0198,Female,0,17,27.86,463.81,One year,Fiber optic,3,Electronic check,0,0,0
+PT-0199,Male,1,42,97.73,3504.16,Month-to-month,Fiber optic,1,Mailed check,0,1,0
+PT-0200,Male,0,39,44.16,1539.3,Month-to-month,DSL,0,Bank transfer,1,0,0
+PT-0201,Male,0,26,61.21,1417.43,Month-to-month,Fiber optic,3,Bank transfer,1,0,0
+PT-0202,Male,0,42,74.29,3302.98,Month-to-month,DSL,0,Credit card,1,0,0
+PT-0203,Female,1,32,49.33,1474.52,One year,Fiber optic,3,Mailed check,0,1,0
+PT-0204,Male,0,38,94.82,3137.44,Two year,Fiber optic,1,Credit card,0,1,0
+PT-0205,Female,0,55,91.02,4366.27,Two year,Fiber optic,0,Credit card,0,0,0
+PT-0206,Male,0,32,79.18,2423.55,One year,DSL,3,Credit card,1,0,1
+PT-0207,Male,0,29,65.96,1923.63,One year,Fiber optic,0,Mailed check,1,0,0
+PT-0208,Female,0,11,30.45,379.23,Month-to-month,DSL,2,Credit card,0,1,0
+PT-0209,Female,0,57,84.98,4774.76,Month-to-month,DSL,1,Bank transfer,0,1,0
+PT-0210,Male,1,23,69.67,1521.16,Month-to-month,Fiber optic,1,Credit card,0,0,0
+PT-0211,Female,0,4,86.36,385.14,Month-to-month,Fiber optic,3,Bank transfer,0,1,1
+PT-0212,Male,0,42,37.74,1401.51,One year,Fiber optic,2,Bank transfer,1,1,0
+PT-0213,Male,0,46,96.1,4576.24,Two year,Fiber optic,1,Electronic check,0,0,0
+PT-0214,Female,0,24,53.6,1147.99,Month-to-month,Fiber optic,4,Credit card,1,0,0
+PT-0215,Male,1,22,64.07,1257.44,Month-to-month,Fiber optic,3,Electronic check,1,0,1
+PT-0216,Female,1,65,78.78,4981.11,Month-to-month,Fiber optic,2,Credit card,1,0,1
+PT-0217,Male,0,38,22.94,799.76,Month-to-month,Fiber optic,0,Credit card,0,1,1
+PT-0218,Female,1,6,88.4,521.07,Month-to-month,Fiber optic,0,Mailed check,1,0,0
+PT-0219,Female,0,57,97.88,4938.76,Two year,DSL,1,Credit card,0,1,0
+PT-0220,Male,0,8,71.31,576.0,One year,DSL,0,Bank transfer,1,1,0
+PT-0221,Male,0,53,102.69,6246.69,Two year,DSL,3,Bank transfer,0,1,0
+PT-0222,Male,1,35,76.5,2577.23,Month-to-month,Fiber optic,0,Electronic check,1,1,0
+PT-0223,Female,0,63,49.46,2650.89,One year,Fiber optic,1,Bank transfer,0,1,0
+PT-0224,Female,0,64,44.17,3105.34,Month-to-month,Fiber optic,0,Credit card,1,1,0
+PT-0225,Male,0,59,21.47,1429.92,Month-to-month,Fiber optic,4,Mailed check,1,0,0
+PT-0226,Female,0,47,42.54,1922.51,Two year,DSL,1,Credit card,1,1,0
+PT-0227,Male,0,12,83.33,850.29,Month-to-month,DSL,2,Electronic check,0,1,0
+PT-0228,Male,0,17,62.99,983.75,Month-to-month,No,4,Electronic check,1,0,0
+PT-0229,Male,0,18,77.74,1473.68,Month-to-month,Fiber optic,1,Bank transfer,0,1,0
+PT-0230,Female,1,57,97.4,4863.41,Month-to-month,Fiber optic,1,Credit card,1,0,0
+PT-0231,Male,0,36,78.02,2596.52,One year,Fiber optic,0,Electronic check,1,0,0
+PT-0232,Male,0,38,78.16,3222.95,One year,DSL,6,Credit card,0,0,0
+PT-0233,Male,1,2,108.82,245.97,Month-to-month,No,0,Mailed check,1,0,1
+PT-0234,Male,0,34,39.42,1510.19,Two year,Fiber optic,1,Bank transfer,1,0,0
+PT-0235,Male,1,69,75.44,4857.85,Month-to-month,Fiber optic,3,Bank transfer,1,1,0
+PT-0236,Male,0,56,85.7,5298.03,Month-to-month,DSL,5,Credit card,0,0,0
+PT-0237,Male,0,23,30.75,751.36,One year,DSL,4,Bank transfer,0,0,0
+PT-0238,Female,0,4,50.15,196.35,One year,DSL,1,Electronic check,1,0,0
+PT-0239,Male,0,22,53.09,1082.17,Month-to-month,Fiber optic,1,Electronic check,0,0,0
+PT-0240,Female,0,50,102.82,4645.86,Two year,DSL,0,Credit card,0,0,0
+PT-0241,Female,0,10,71.44,632.83,One year,DSL,2,Electronic check,1,0,0
+PT-0242,Female,0,42,27.77,1151.21,Month-to-month,DSL,4,Bank transfer,0,0,0
+PT-0243,Female,0,70,88.44,5717.44,Month-to-month,Fiber optic,2,Electronic check,1,0,0
+PT-0244,Female,0,14,38.47,616.64,Month-to-month,No,3,Mailed check,1,0,1
+PT-0245,Male,1,53,83.08,4234.81,Two year,DSL,2,Credit card,0,1,0
+PT-0246,Female,0,31,46.25,1584.69,Two year,Fiber optic,2,Bank transfer,1,0,0
+PT-0247,Male,0,18,90.19,1664.68,Month-to-month,DSL,0,Bank transfer,0,0,0
+PT-0248,Female,0,12,34.19,433.18,Two year,Fiber optic,2,Electronic check,0,0,0
+PT-0249,Male,0,51,66.21,3556.2,Month-to-month,No,3,Credit card,0,0,0
+PT-0250,Male,0,2,25.55,55.41,Month-to-month,DSL,2,Credit card,1,1,0
+PT-0251,Male,1,34,102.57,3042.73,Two year,DSL,0,Electronic check,1,0,1
+PT-0252,Female,0,22,103.17,2224.22,One year,Fiber optic,0,Credit card,1,0,0
+PT-0253,Male,0,36,60.14,1936.82,One year,Fiber optic,0,Credit card,0,0,0
+PT-0254,Male,0,26,77.84,2204.28,Month-to-month,No,0,Electronic check,1,1,0
+PT-0255,Female,0,65,48.94,2962.02,Month-to-month,Fiber optic,5,Bank transfer,0,0,0
+PT-0256,Male,0,13,42.31,507.32,One year,Fiber optic,2,Electronic check,0,1,0
+PT-0257,Female,0,23,35.85,847.44,Two year,Fiber optic,2,Bank transfer,0,1,0
+PT-0258,Female,1,40,35.8,1233.51,Month-to-month,Fiber optic,1,Electronic check,1,0,0
+PT-0259,Male,0,44,84.52,4186.1,Two year,DSL,4,Mailed check,0,1,0
+PT-0260,Male,0,51,72.74,3527.85,Month-to-month,No,2,Credit card,1,1,0
+PT-0261,Female,0,23,54.05,1330.42,Month-to-month,DSL,5,Credit card,0,0,0
+PT-0262,Male,1,14,104.3,1302.78,One year,DSL,2,Bank transfer,0,1,0
+PT-0263,Male,0,58,21.03,1113.51,One year,Fiber optic,2,Electronic check,1,0,0
+PT-0264,Male,0,64,99.36,6075.23,Month-to-month,No,0,Mailed check,0,0,1
+PT-0265,Male,0,3,48.68,165.83,Month-to-month,DSL,0,Electronic check,1,1,0
+PT-0266,Female,0,56,104.82,5279.99,Two year,DSL,4,Electronic check,1,0,0
+PT-0267,Female,1,70,43.87,2869.62,Month-to-month,DSL,0,Mailed check,0,0,1
+PT-0268,Male,0,62,37.97,2019.19,Month-to-month,DSL,0,Electronic check,1,0,0
+PT-0269,Female,0,63,100.54,5887.48,One year,Fiber optic,0,Mailed check,1,0,0
+PT-0270,Female,0,29,95.34,2818.15,Month-to-month,Fiber optic,3,Electronic check,0,1,0
+PT-0271,Female,1,30,69.82,2308.75,Two year,Fiber optic,0,Credit card,0,0,0
+PT-0272,Female,0,65,71.41,4665.07,One year,No,1,Mailed check,0,0,0
+PT-0273,Male,0,25,31.36,765.98,Two year,Fiber optic,4,Bank transfer,1,1,0
+PT-0274,Male,0,50,70.07,3558.21,Two year,Fiber optic,1,Electronic check,1,0,0
+PT-0275,Male,1,13,103.24,1367.36,Month-to-month,DSL,0,Credit card,1,0,0
+PT-0276,Female,0,23,44.79,920.1,One year,Fiber optic,1,Electronic check,1,0,0
+PT-0277,Male,0,35,100.73,3018.12,Two year,DSL,1,Electronic check,0,0,0
+PT-0278,Female,0,35,85.59,3089.99,Month-to-month,Fiber optic,4,Credit card,1,1,0
+PT-0279,Male,1,21,25.91,578.32,Month-to-month,Fiber optic,0,Mailed check,0,0,0
+PT-0280,Male,0,59,24.55,1387.78,Month-to-month,Fiber optic,1,Credit card,1,1,0
+PT-0281,Male,0,48,63.99,3021.86,Two year,Fiber optic,0,Bank transfer,0,0,1
+PT-0282,Male,0,28,97.14,2840.18,One year,DSL,1,Credit card,0,1,1
+PT-0283,Male,0,2,40.14,82.89,Two year,Fiber optic,1,Credit card,1,0,0
+PT-0284,Female,0,67,94.19,6116.02,Month-to-month,Fiber optic,0,Bank transfer,1,0,0
+PT-0285,Female,0,44,108.95,4995.99,Two year,DSL,0,Bank transfer,0,0,0
+PT-0286,Male,0,52,79.45,4355.43,One year,Fiber optic,0,Bank transfer,1,0,0
+PT-0287,Male,1,25,50.89,1353.69,One year,Fiber optic,0,Bank transfer,1,0,0
+PT-0288,Male,0,13,62.37,869.41,One year,Fiber optic,2,Mailed check,1,1,1
+PT-0289,Female,0,40,57.84,2582.1,Month-to-month,Fiber optic,1,Electronic check,0,0,0
+PT-0290,Male,0,68,46.85,2759.6,Two year,DSL,2,Mailed check,1,0,0
+PT-0291,Female,0,41,97.62,3618.62,Month-to-month,DSL,3,Electronic check,0,0,0
+PT-0292,Male,1,21,64.06,1451.63,Month-to-month,Fiber optic,1,Credit card,1,0,0
+PT-0293,Female,0,5,68.04,363.74,Two year,No,2,Electronic check,0,1,0
+PT-0294,Male,0,40,31.6,1219.84,One year,DSL,0,Electronic check,1,0,0
+PT-0295,Female,0,18,50.85,1025.52,Month-to-month,DSL,6,Credit card,0,0,1
+PT-0296,Male,0,3,73.07,197.44,Month-to-month,Fiber optic,0,Electronic check,1,1,1
+PT-0297,Male,1,7,79.58,582.72,Month-to-month,Fiber optic,0,Bank transfer,1,1,1
+PT-0298,Male,0,54,79.55,4505.09,Month-to-month,Fiber optic,2,Mailed check,1,0,0
+PT-0299,Male,0,15,90.63,1358.53,One year,Fiber optic,4,Bank transfer,1,0,0
+PT-0300,Female,0,62,49.75,2624.36,One year,No,0,Credit card,0,0,0
+PT-0301,Male,0,33,77.99,2540.28,Two year,DSL,5,Electronic check,1,0,0
+PT-0302,Female,0,15,28.55,461.42,Month-to-month,No,3,Mailed check,1,0,0
+PT-0303,Female,0,48,93.35,4054.5,Month-to-month,No,1,Credit card,1,1,0
+PT-0304,Male,0,17,82.66,1219.16,Two year,DSL,3,Credit card,1,1,0
+PT-0305,Male,1,49,90.12,4563.4,Two year,No,1,Credit card,1,0,0
+PT-0306,Female,0,9,43.55,370.11,One year,Fiber optic,0,Mailed check,1,1,0
+PT-0307,Male,0,32,63.37,2127.43,One year,DSL,3,Electronic check,0,1,0
+PT-0308,Female,0,22,26.74,586.81,Month-to-month,No,0,Electronic check,0,1,0
+PT-0309,Female,0,11,61.32,735.48,Month-to-month,No,1,Credit card,0,0,0
+PT-0310,Male,1,71,20.02,1246.97,One year,Fiber optic,2,Bank transfer,0,1,0
+PT-0311,Female,0,7,93.49,722.03,Month-to-month,Fiber optic,0,Bank transfer,1,0,1
+PT-0312,Male,0,44,51.96,2377.91,One year,Fiber optic,0,Bank transfer,0,0,0
+PT-0313,Female,0,53,29.63,1622.61,Month-to-month,No,0,Mailed check,1,0,0
+PT-0314,Male,1,16,89.49,1410.58,One year,No,3,Mailed check,1,0,0
+PT-0315,Male,1,56,95.49,5320.06,One year,No,3,Mailed check,0,0,0
+PT-0316,Female,1,50,57.68,2978.3,One year,DSL,4,Credit card,1,0,0
+PT-0317,Male,0,53,74.23,4390.28,One year,No,0,Mailed check,0,0,0
+PT-0318,Female,0,17,108.32,1924.35,Two year,Fiber optic,1,Bank transfer,0,0,0
+PT-0319,Female,1,37,98.97,3576.63,Month-to-month,DSL,1,Electronic check,0,0,0
+PT-0320,Male,0,33,33.18,951.08,One year,DSL,2,Electronic check,1,0,0
+PT-0321,Male,1,50,41.38,2245.47,One year,DSL,0,Credit card,1,1,0
+PT-0322,Male,0,33,38.28,1403.02,Two year,Fiber optic,0,Mailed check,1,1,0
+PT-0323,Male,0,38,60.39,2627.65,Month-to-month,No,1,Electronic check,1,0,0
+PT-0324,Male,0,33,20.51,669.99,Two year,DSL,0,Bank transfer,0,1,0
+PT-0325,Female,0,71,52.23,4024.31,Month-to-month,DSL,2,Mailed check,1,1,0
+PT-0326,Male,0,29,99.51,3027.19,Month-to-month,DSL,2,Credit card,0,0,0
+PT-0327,Female,0,32,106.3,3587.89,Month-to-month,No,3,Bank transfer,0,1,0
+PT-0328,Female,1,66,60.1,3423.79,Two year,DSL,1,Electronic check,0,0,0
+PT-0329,Male,0,27,80.33,2346.92,Two year,Fiber optic,3,Credit card,0,1,0
+PT-0330,Male,0,43,23.41,877.76,Month-to-month,DSL,3,Electronic check,0,0,0
+PT-0331,Female,0,56,48.48,2624.88,Month-to-month,DSL,1,Electronic check,0,0,0
+PT-0332,Male,0,39,74.59,2718.34,Two year,Fiber optic,1,Electronic check,1,0,0
+PT-0333,Male,0,70,46.55,3389.54,Month-to-month,No,5,Bank transfer,0,1,0
+PT-0334,Male,0,6,20.45,126.26,One year,No,1,Bank transfer,0,1,0
+PT-0335,Female,0,53,101.51,5947.29,Month-to-month,DSL,0,Electronic check,0,1,0
+PT-0336,Male,1,60,78.02,4081.74,One year,DSL,0,Mailed check,1,0,0
+PT-0337,Male,0,37,75.76,3139.59,Month-to-month,Fiber optic,0,Mailed check,1,0,0
+PT-0338,Male,0,41,42.16,1584.15,One year,Fiber optic,0,Bank transfer,0,1,0
+PT-0339,Female,0,58,52.29,2855.83,One year,DSL,0,Mailed check,0,0,0
+PT-0340,Male,0,3,96.46,300.81,Two year,Fiber optic,0,Mailed check,0,1,0
+PT-0341,Female,0,47,55.32,2905.37,One year,No,3,Electronic check,1,0,0
+PT-0342,Male,1,22,88.15,1730.07,Month-to-month,Fiber optic,3,Mailed check,1,0,1
+PT-0343,Female,0,9,43.79,362.66,One year,Fiber optic,2,Credit card,0,0,0
+PT-0344,Female,0,67,77.02,4809.69,One year,Fiber optic,0,Mailed check,1,1,0
+PT-0345,Male,1,33,53.87,1994.9,One year,Fiber optic,3,Credit card,0,1,0
+PT-0346,Female,0,30,26.94,842.99,Month-to-month,DSL,0,Bank transfer,0,1,0
+PT-0347,Female,0,62,80.77,4976.22,One year,Fiber optic,0,Mailed check,0,0,0
+PT-0348,Male,1,19,25.03,441.08,Month-to-month,No,2,Electronic check,1,0,0
+PT-0349,Female,0,22,39.74,850.88,Month-to-month,Fiber optic,2,Bank transfer,0,1,0
+PT-0350,Female,1,9,40.68,353.54,Month-to-month,DSL,0,Credit card,0,1,1
+PT-0351,Female,1,5,99.0,499.67,One year,DSL,0,Electronic check,1,1,0
+PT-0352,Male,1,55,40.65,2438.51,One year,Fiber optic,0,Electronic check,1,0,0
+PT-0353,Male,0,37,73.85,2768.3,Month-to-month,DSL,1,Electronic check,0,0,0
+PT-0354,Female,0,47,29.59,1359.89,One year,DSL,1,Credit card,1,1,0
+PT-0355,Female,0,53,69.69,3757.35,Month-to-month,Fiber optic,0,Bank transfer,1,1,1
+PT-0356,Male,0,58,90.48,5955.11,Month-to-month,Fiber optic,2,Bank transfer,0,0,0
+PT-0357,Male,0,19,62.45,1222.23,Month-to-month,DSL,0,Credit card,1,1,0
+PT-0358,Female,1,8,105.11,921.66,One year,Fiber optic,3,Mailed check,1,0,1
+PT-0359,Male,1,22,80.66,1699.85,One year,No,3,Credit card,1,1,0
+PT-0360,Male,1,2,86.32,150.3,Month-to-month,DSL,2,Bank transfer,1,0,1
+PT-0361,Male,0,52,71.74,3463.12,Month-to-month,DSL,3,Electronic check,1,1,0
+PT-0362,Female,0,49,70.69,3744.34,One year,No,2,Credit card,1,1,0
+PT-0363,Female,0,34,26.08,922.28,Two year,Fiber optic,2,Bank transfer,0,1,0
+PT-0364,Male,0,12,55.9,720.87,Month-to-month,Fiber optic,3,Mailed check,1,0,0
+PT-0365,Female,0,25,64.91,1476.54,One year,No,2,Mailed check,1,0,0
+PT-0366,Male,0,64,75.24,5197.09,One year,DSL,3,Credit card,1,1,0
+PT-0367,Female,0,24,108.6,2931.68,Month-to-month,DSL,1,Credit card,1,1,1
+PT-0368,Female,0,23,61.15,1246.27,One year,DSL,1,Electronic check,0,1,0
+PT-0369,Male,0,47,75.15,3277.43,One year,DSL,0,Bank transfer,0,0,0
+PT-0370,Female,0,47,96.89,4252.77,Month-to-month,DSL,2,Mailed check,0,1,0
+PT-0371,Male,1,56,97.07,4940.27,Two year,Fiber optic,1,Credit card,1,0,0
+PT-0372,Female,0,39,42.59,1839.65,Month-to-month,DSL,2,Mailed check,0,0,0
+PT-0373,Female,0,58,87.01,4682.88,Month-to-month,Fiber optic,2,Credit card,0,0,0
+PT-0374,Male,1,69,35.71,2671.19,Month-to-month,Fiber optic,0,Credit card,1,0,0
+PT-0375,Female,0,19,98.14,1943.3,Two year,Fiber optic,0,Electronic check,0,0,0
+PT-0376,Female,0,38,83.94,3290.56,Month-to-month,No,0,Bank transfer,1,0,1
+PT-0377,Male,0,31,79.58,2792.95,One year,DSL,2,Electronic check,1,1,1
+PT-0378,Female,1,11,29.35,334.29,Month-to-month,No,2,Credit card,1,0,1
+PT-0379,Female,0,17,31.81,595.69,Month-to-month,Fiber optic,3,Credit card,1,1,0
+PT-0380,Female,0,70,35.93,2588.73,One year,Fiber optic,0,Credit card,1,0,0
+PT-0381,Male,0,57,47.71,2647.84,Month-to-month,DSL,0,Mailed check,1,0,0
+PT-0382,Male,0,62,46.96,3143.75,One year,Fiber optic,1,Electronic check,1,0,0
+PT-0383,Female,0,32,34.69,1189.05,Month-to-month,Fiber optic,1,Mailed check,1,0,0
+PT-0384,Female,0,25,96.81,2189.65,Month-to-month,Fiber optic,4,Credit card,1,1,0
+PT-0385,Male,0,3,33.69,115.31,Month-to-month,No,1,Credit card,0,0,1
+PT-0386,Male,0,28,50.77,1341.2,One year,No,3,Credit card,0,0,0
+PT-0387,Male,0,35,89.81,2739.16,Month-to-month,DSL,4,Electronic check,0,1,1
+PT-0388,Female,0,5,37.93,203.04,Month-to-month,Fiber optic,0,Mailed check,1,0,0
+PT-0389,Female,0,21,76.62,1388.03,Two year,Fiber optic,1,Mailed check,1,0,0
+PT-0390,Male,0,31,76.96,2260.16,Month-to-month,DSL,4,Electronic check,1,0,1
+PT-0391,Male,1,61,81.96,4482.09,One year,DSL,0,Bank transfer,0,0,0
+PT-0392,Male,1,14,31.32,403.31,Two year,Fiber optic,2,Bank transfer,1,1,0
+PT-0393,Female,0,18,42.56,660.24,One year,Fiber optic,0,Mailed check,1,0,0
+PT-0394,Female,1,71,34.43,2467.36,Month-to-month,No,1,Bank transfer,1,0,0
+PT-0395,Female,0,3,75.78,218.07,One year,DSL,6,Credit card,0,1,0
+PT-0396,Male,1,37,49.03,1890.79,Month-to-month,Fiber optic,4,Electronic check,0,0,1
+PT-0397,Male,0,14,63.68,784.2,One year,No,0,Bank transfer,0,0,0
+PT-0398,Male,0,27,79.02,2407.74,Two year,Fiber optic,0,Electronic check,1,1,0
+PT-0399,Female,0,8,94.13,700.13,Month-to-month,DSL,0,Electronic check,0,1,1
+PT-0400,Female,0,25,67.36,1557.08,One year,DSL,6,Credit card,0,1,0
+PT-0401,Female,0,14,35.01,443.14,Month-to-month,DSL,5,Credit card,1,0,0
+PT-0402,Female,0,53,88.78,4607.36,One year,Fiber optic,8,Mailed check,1,1,0
+PT-0403,Female,0,58,60.27,3387.74,One year,No,0,Bank transfer,0,0,0
+PT-0404,Male,0,3,89.44,304.01,Two year,No,0,Mailed check,0,0,0
+PT-0405,Male,0,34,53.04,1847.81,Month-to-month,No,3,Mailed check,0,1,0
+PT-0406,Female,0,63,94.31,6279.48,One year,No,3,Bank transfer,0,1,0
+PT-0407,Female,0,8,102.97,782.83,Two year,Fiber optic,2,Mailed check,0,1,0
+PT-0408,Female,0,40,67.19,2541.92,One year,DSL,1,Mailed check,0,0,0
+PT-0409,Female,0,65,28.11,1789.84,One year,DSL,0,Electronic check,1,0,0
+PT-0410,Female,0,18,63.28,1035.88,Month-to-month,Fiber optic,3,Mailed check,0,0,0
+PT-0411,Female,0,12,30.13,352.19,Month-to-month,DSL,0,Bank transfer,0,0,0
+PT-0412,Female,1,19,59.64,1277.37,Month-to-month,Fiber optic,4,Mailed check,0,0,0
+PT-0413,Male,1,19,98.19,2044.78,Month-to-month,Fiber optic,3,Electronic check,1,0,0
+PT-0414,Male,0,70,67.09,4356.28,Month-to-month,Fiber optic,3,Mailed check,0,0,0
+PT-0415,Male,0,22,25.41,508.82,One year,DSL,0,Electronic check,1,1,0
+PT-0416,Female,0,3,46.32,154.94,Month-to-month,No,3,Electronic check,1,0,0
+PT-0417,Male,0,26,65.06,1670.24,Two year,DSL,2,Bank transfer,1,0,0
+PT-0418,Male,0,46,51.98,2249.28,Two year,No,4,Bank transfer,0,1,0
+PT-0419,Female,0,72,105.42,6965.37,Month-to-month,Fiber optic,4,Mailed check,1,0,0
+PT-0420,Female,0,43,60.43,2311.44,One year,Fiber optic,4,Mailed check,0,0,0
+PT-0421,Male,0,19,79.06,1531.36,Month-to-month,DSL,0,Mailed check,1,0,0
+PT-0422,Female,0,53,47.3,2691.62,Two year,Fiber optic,1,Bank transfer,0,0,0
+PT-0423,Male,0,35,74.5,2695.4,One year,DSL,2,Credit card,0,1,0
+PT-0424,Female,0,24,96.69,2314.6,Month-to-month,DSL,2,Electronic check,1,0,0
+PT-0425,Female,0,26,88.2,1994.72,Two year,No,3,Bank transfer,1,0,0
+PT-0426,Male,1,49,84.82,4024.2,Two year,Fiber optic,0,Electronic check,0,0,0
+PT-0427,Male,0,67,68.41,5248.76,Month-to-month,Fiber optic,2,Mailed check,1,0,0
+PT-0428,Female,0,60,34.98,1969.36,Two year,Fiber optic,0,Mailed check,1,1,0
+PT-0429,Male,0,70,32.18,2194.19,Month-to-month,DSL,0,Mailed check,1,0,0
+PT-0430,Male,0,12,30.27,357.73,Month-to-month,Fiber optic,0,Credit card,0,0,0
+PT-0431,Male,0,43,70.89,3194.16,Month-to-month,No,3,Credit card,1,0,0
+PT-0432,Female,0,24,30.58,652.8,Month-to-month,Fiber optic,4,Bank transfer,0,0,0
+PT-0433,Female,1,1,74.72,74.57,Month-to-month,Fiber optic,0,Electronic check,0,1,1
+PT-0434,Male,0,24,33.34,836.95,Month-to-month,No,2,Bank transfer,1,0,1
+PT-0435,Female,0,21,80.49,1746.62,One year,Fiber optic,2,Credit card,1,0,1
+PT-0436,Female,0,48,100.78,5302.22,One year,No,0,Electronic check,1,0,0
+PT-0437,Female,0,68,57.24,3553.51,Month-to-month,DSL,0,Electronic check,1,1,0
+PT-0438,Female,0,41,43.37,1818.25,One year,No,0,Credit card,1,0,0
+PT-0439,Male,0,25,20.14,431.6,One year,DSL,4,Credit card,1,0,0
+PT-0440,Male,0,26,82.1,1977.33,Month-to-month,DSL,0,Bank transfer,0,0,0
+PT-0441,Female,0,4,94.88,344.68,Two year,No,0,Electronic check,0,0,0
+PT-0442,Female,1,43,61.62,2899.39,Two year,DSL,2,Bank transfer,1,1,0
+PT-0443,Male,1,43,91.96,4414.59,Month-to-month,No,1,Credit card,0,1,0
+PT-0444,Male,1,15,97.81,1577.86,One year,DSL,2,Electronic check,1,0,1
+PT-0445,Male,0,58,94.65,5164.65,One year,DSL,1,Mailed check,0,0,0
+PT-0446,Female,1,20,37.12,836.75,One year,Fiber optic,2,Bank transfer,0,0,0
+PT-0447,Male,0,5,61.34,326.36,One year,DSL,4,Electronic check,1,0,0
+PT-0448,Male,1,40,22.02,949.1,One year,DSL,0,Mailed check,0,0,0
+PT-0449,Female,0,16,44.54,639.42,Month-to-month,No,1,Bank transfer,1,0,1
+PT-0450,Female,1,32,35.41,1069.0,Two year,Fiber optic,1,Electronic check,0,0,0
+PT-0451,Male,0,50,24.84,1214.6,Month-to-month,Fiber optic,0,Credit card,1,0,0
+PT-0452,Male,1,11,107.63,1274.76,Month-to-month,DSL,0,Credit card,0,0,1
+PT-0453,Female,0,30,105.27,2820.55,Two year,DSL,1,Bank transfer,1,0,0
+PT-0454,Male,0,15,51.63,765.45,Month-to-month,Fiber optic,2,Mailed check,0,0,0
+PT-0455,Male,0,72,78.45,6143.93,One year,Fiber optic,0,Mailed check,1,0,1
+PT-0456,Male,1,56,90.59,4974.65,One year,Fiber optic,3,Mailed check,0,1,0
+PT-0457,Female,0,60,49.28,2599.9,Month-to-month,DSL,0,Credit card,1,0,0
+PT-0458,Male,0,28,93.53,2923.09,Two year,Fiber optic,3,Electronic check,0,1,0
+PT-0459,Female,0,58,37.61,2300.17,Month-to-month,Fiber optic,3,Credit card,1,0,0
+PT-0460,Female,0,38,25.62,1090.7,Two year,DSL,1,Bank transfer,0,0,0
+PT-0461,Male,0,51,76.27,4136.9,Month-to-month,Fiber optic,2,Mailed check,0,1,0
+PT-0462,Female,0,20,45.96,1021.99,Month-to-month,DSL,3,Electronic check,0,1,0
+PT-0463,Female,0,11,32.35,388.51,Two year,No,0,Mailed check,1,1,0
+PT-0464,Female,0,46,40.32,1812.86,Month-to-month,Fiber optic,0,Mailed check,1,0,0
+PT-0465,Female,0,5,71.13,377.51,Month-to-month,Fiber optic,1,Bank transfer,1,1,1
+PT-0466,Male,0,61,76.76,4912.36,One year,Fiber optic,0,Bank transfer,0,0,0
+PT-0467,Male,0,59,66.14,3866.24,One year,Fiber optic,5,Bank transfer,0,0,0
+PT-0468,Female,1,34,25.53,861.03,Month-to-month,DSL,1,Bank transfer,0,0,0
+PT-0469,Male,1,10,96.63,901.9,Month-to-month,DSL,2,Electronic check,0,1,0
+PT-0470,Female,0,23,43.51,1061.01,Month-to-month,Fiber optic,1,Electronic check,1,0,0
+PT-0471,Male,0,53,89.33,4362.28,Month-to-month,Fiber optic,2,Bank transfer,0,1,0
+PT-0472,Male,0,22,61.76,1349.03,Month-to-month,No,5,Mailed check,1,1,0
+PT-0473,Female,0,19,67.74,1261.86,Month-to-month,Fiber optic,0,Electronic check,0,1,0
+PT-0474,Female,1,35,50.15,1632.6,Month-to-month,Fiber optic,3,Credit card,1,1,0
+PT-0475,Male,1,44,80.99,4090.84,Month-to-month,DSL,2,Credit card,0,1,1
+PT-0476,Female,0,29,85.27,2288.77,Month-to-month,Fiber optic,2,Electronic check,0,1,0
+PT-0477,Male,0,17,53.84,987.73,One year,No,2,Mailed check,1,0,0
+PT-0478,Male,0,36,89.24,3397.9,One year,Fiber optic,2,Bank transfer,0,0,0
+PT-0479,Male,0,50,49.94,2167.44,Two year,DSL,0,Mailed check,1,0,0
+PT-0480,Male,0,70,89.18,5715.2,One year,No,2,Bank transfer,0,0,1
+PT-0481,Female,0,3,100.69,270.25,One year,No,1,Bank transfer,1,1,1
+PT-0482,Female,0,56,56.35,3371.22,Two year,DSL,0,Mailed check,0,0,0
+PT-0483,Female,0,69,104.15,6882.19,One year,Fiber optic,0,Electronic check,1,1,0
+PT-0484,Female,0,59,88.44,4889.16,Month-to-month,Fiber optic,0,Credit card,0,0,0
+PT-0485,Male,0,63,27.64,1810.69,One year,DSL,3,Mailed check,1,0,0
+PT-0486,Female,0,69,106.85,8062.24,Two year,DSL,4,Bank transfer,0,0,0
+PT-0487,Male,0,16,39.05,653.64,One year,No,3,Mailed check,0,0,0
+PT-0488,Female,0,61,101.65,6420.85,Month-to-month,Fiber optic,0,Electronic check,0,1,1
+PT-0489,Female,0,59,75.01,4870.83,Month-to-month,No,4,Mailed check,0,0,0
+PT-0490,Female,0,16,107.83,1764.6,Month-to-month,No,3,Mailed check,0,1,1
+PT-0491,Male,0,36,32.71,1147.59,One year,Fiber optic,0,Electronic check,0,0,0
+PT-0492,Female,0,3,99.17,260.09,Month-to-month,No,3,Bank transfer,1,1,0
+PT-0493,Female,0,27,32.88,826.76,Month-to-month,DSL,3,Mailed check,1,1,0
+PT-0494,Female,0,54,20.41,1014.73,Month-to-month,Fiber optic,4,Electronic check,1,1,0
+PT-0495,Female,0,36,24.78,788.42,Month-to-month,No,3,Mailed check,0,0,0
+PT-0496,Female,0,56,42.62,2470.36,Two year,Fiber optic,0,Electronic check,0,1,0
+PT-0497,Male,0,66,30.45,2247.9,One year,Fiber optic,1,Bank transfer,0,0,0
+PT-0498,Male,0,53,98.29,5014.85,Month-to-month,Fiber optic,3,Credit card,0,0,1
+PT-0499,Female,0,50,53.61,2646.52,Month-to-month,Fiber optic,1,Electronic check,0,0,1
+PT-0500,Female,0,54,35.41,1822.41,Two year,Fiber optic,3,Mailed check,0,0,0
+PT-0501,Female,0,61,95.33,5429.88,One year,Fiber optic,2,Mailed check,0,1,0
+PT-0502,Female,0,6,109.21,701.16,One year,Fiber optic,3,Credit card,1,1,0
+PT-0503,Female,0,31,27.48,916.56,One year,Fiber optic,2,Mailed check,0,0,0
+PT-0504,Female,0,59,97.21,6160.88,Month-to-month,Fiber optic,3,Mailed check,1,0,0
+PT-0505,Female,0,1,97.43,84.88,Two year,DSL,4,Bank transfer,0,1,1
+PT-0506,Female,0,66,105.08,7298.66,Two year,DSL,2,Bank transfer,1,1,0
+PT-0507,Female,0,72,83.44,6117.18,One year,DSL,0,Credit card,0,1,0
+PT-0508,Female,0,35,65.32,2233.34,Month-to-month,Fiber optic,4,Credit card,1,1,0
+PT-0509,Male,0,69,81.05,5647.57,Month-to-month,Fiber optic,3,Electronic check,0,0,1
+PT-0510,Female,0,37,106.24,3431.99,Month-to-month,DSL,0,Mailed check,1,0,0
+PT-0511,Male,0,54,107.26,5864.04,Month-to-month,DSL,0,Bank transfer,0,0,1
+PT-0512,Male,1,43,57.05,2337.45,One year,DSL,2,Credit card,1,0,0
+PT-0513,Female,0,34,40.41,1321.14,Month-to-month,No,2,Mailed check,0,1,0
+PT-0514,Male,0,20,34.51,610.88,Two year,Fiber optic,3,Credit card,1,0,0
+PT-0515,Male,0,45,33.31,1475.76,Two year,Fiber optic,2,Credit card,0,0,0
+PT-0516,Male,0,70,107.8,7164.05,One year,Fiber optic,2,Bank transfer,0,1,0
+PT-0517,Female,0,15,85.85,1442.35,Month-to-month,Fiber optic,1,Mailed check,1,0,1
+PT-0518,Male,1,25,72.51,1661.64,Two year,DSL,3,Electronic check,0,1,0
+PT-0519,Male,1,51,37.5,1807.94,One year,No,3,Mailed check,1,0,0
+PT-0520,Male,0,45,51.62,2655.67,Two year,DSL,0,Credit card,1,0,0
+PT-0521,Female,0,18,95.2,1763.95,Month-to-month,DSL,4,Bank transfer,0,1,0
+PT-0522,Male,0,53,77.49,3827.69,Month-to-month,Fiber optic,1,Mailed check,0,0,0
+PT-0523,Female,1,63,23.8,1646.15,Two year,DSL,0,Electronic check,0,0,0
+PT-0524,Female,0,37,57.54,2123.8,One year,DSL,1,Electronic check,1,0,0
+PT-0525,Male,1,47,72.3,3464.95,Two year,Fiber optic,0,Electronic check,1,1,0
+PT-0526,Male,0,21,72.35,1358.06,Month-to-month,Fiber optic,2,Bank transfer,0,0,1
+PT-0527,Female,0,7,46.09,325.5,Two year,Fiber optic,2,Electronic check,0,1,0
+PT-0528,Female,0,35,81.69,3020.7,Month-to-month,Fiber optic,0,Mailed check,0,0,0
+PT-0529,Female,0,53,50.63,3014.08,Month-to-month,DSL,2,Electronic check,1,0,0
+PT-0530,Male,0,3,63.16,178.77,Month-to-month,No,3,Bank transfer,0,1,0
+PT-0531,Male,0,17,97.11,1473.74,Month-to-month,DSL,2,Electronic check,0,0,0
+PT-0532,Female,0,26,29.7,840.09,One year,DSL,2,Electronic check,1,0,1
+PT-0533,Male,0,16,102.81,1499.58,Two year,DSL,1,Bank transfer,1,0,0
+PT-0534,Male,1,9,28.92,266.38,Month-to-month,DSL,2,Mailed check,1,0,0
+PT-0535,Male,0,28,102.84,3182.99,Month-to-month,Fiber optic,3,Electronic check,0,0,0
+PT-0536,Female,0,66,40.48,2361.37,Two year,DSL,4,Electronic check,0,0,0
+PT-0537,Female,1,6,27.4,164.09,Month-to-month,Fiber optic,1,Credit card,0,1,0
+PT-0538,Female,0,9,100.53,986.86,Two year,Fiber optic,0,Electronic check,1,1,1
+PT-0539,Female,1,11,30.73,327.36,One year,No,1,Mailed check,0,0,0
+PT-0540,Female,0,52,31.05,1778.37,One year,DSL,0,Bank transfer,1,0,0
+PT-0541,Female,0,66,45.1,3215.92,Month-to-month,DSL,0,Mailed check,0,0,0
+PT-0542,Male,0,4,107.49,414.82,One year,DSL,2,Electronic check,0,1,0
+PT-0543,Female,0,26,46.42,1206.16,One year,Fiber optic,2,Electronic check,0,0,0
+PT-0544,Male,0,58,48.31,2698.03,Month-to-month,DSL,0,Bank transfer,0,0,0
+PT-0545,Female,0,63,88.76,5707.39,Month-to-month,Fiber optic,0,Mailed check,0,0,0
+PT-0546,Female,1,46,88.98,3828.39,Month-to-month,Fiber optic,1,Mailed check,1,0,0
+PT-0547,Male,0,49,28.76,1343.77,Month-to-month,Fiber optic,1,Bank transfer,0,1,1
+PT-0548,Female,0,44,35.28,1570.21,Month-to-month,Fiber optic,0,Credit card,1,0,1
+PT-0549,Female,1,3,108.72,314.2,Month-to-month,Fiber optic,2,Mailed check,1,0,0
+PT-0550,Female,0,39,52.7,2015.83,Month-to-month,No,1,Electronic check,0,0,0
+PT-0551,Female,1,52,92.41,4984.9,Two year,Fiber optic,0,Bank transfer,0,1,0
+PT-0552,Female,0,27,51.26,1208.25,Two year,Fiber optic,0,Bank transfer,1,1,0
+PT-0553,Male,0,52,42.61,2225.94,One year,Fiber optic,4,Mailed check,1,0,0
+PT-0554,Female,0,69,92.8,7080.87,Two year,No,0,Electronic check,0,0,0
+PT-0555,Male,0,39,95.97,3642.07,Two year,No,0,Bank transfer,1,1,0
+PT-0556,Male,0,31,30.22,850.23,Month-to-month,No,0,Credit card,1,1,0
+PT-0557,Female,0,26,34.34,795.46,Month-to-month,No,1,Electronic check,1,0,1
+PT-0558,Male,0,39,98.05,4283.48,Month-to-month,Fiber optic,0,Electronic check,1,1,0
+PT-0559,Male,0,65,103.96,6801.91,Two year,No,3,Electronic check,0,1,0
+PT-0560,Female,0,50,92.53,4965.1,Two year,DSL,1,Electronic check,0,0,0
+PT-0561,Female,0,33,97.66,2793.43,One year,Fiber optic,3,Credit card,0,0,0
+PT-0562,Male,0,61,84.41,5645.42,Month-to-month,No,3,Electronic check,0,1,0
+PT-0563,Male,0,71,54.62,4039.67,One year,No,1,Mailed check,1,0,1
+PT-0564,Female,0,39,28.12,1202.85,Month-to-month,DSL,0,Mailed check,1,1,0
+PT-0565,Female,0,36,97.98,3869.28,Two year,Fiber optic,0,Credit card,0,0,0
+PT-0566,Male,0,54,74.19,4382.96,One year,Fiber optic,3,Electronic check,0,1,0
+PT-0567,Female,0,1,56.06,58.22,Month-to-month,DSL,3,Mailed check,1,0,0
+PT-0568,Male,0,23,81.87,2067.6,One year,DSL,4,Credit card,1,0,0
+PT-0569,Female,1,29,21.87,543.47,One year,Fiber optic,2,Credit card,0,0,0
+PT-0570,Male,0,52,75.62,4050.67,Month-to-month,No,2,Mailed check,0,0,0
+PT-0571,Female,0,64,30.67,2088.64,Month-to-month,No,2,Credit card,1,0,0
+PT-0572,Male,1,28,109.57,2868.21,One year,Fiber optic,0,Credit card,0,0,0
+PT-0573,Female,0,58,101.66,5665.68,One year,Fiber optic,3,Bank transfer,1,1,0
+PT-0574,Female,0,33,26.58,892.14,Month-to-month,No,2,Credit card,1,1,0
+PT-0575,Male,0,33,65.41,2081.43,Two year,Fiber optic,4,Electronic check,0,0,0
+PT-0576,Female,0,60,31.87,1807.4,One year,DSL,5,Electronic check,1,0,0
+PT-0577,Female,0,47,103.36,4541.56,Two year,Fiber optic,2,Bank transfer,1,0,0
+PT-0578,Female,0,72,96.77,7296.48,One year,DSL,0,Mailed check,0,0,0
+PT-0579,Female,0,21,83.54,1720.88,Two year,No,3,Credit card,1,0,0
+PT-0580,Male,0,45,28.42,1420.16,Month-to-month,DSL,2,Bank transfer,0,1,0
+PT-0581,Male,1,24,57.48,1204.39,One year,Fiber optic,2,Electronic check,1,0,0
+PT-0582,Male,0,20,22.6,446.61,One year,Fiber optic,1,Bank transfer,0,0,0
+PT-0583,Female,0,17,39.02,573.53,One year,DSL,2,Credit card,0,0,0
+PT-0584,Male,0,12,21.85,239.25,Month-to-month,Fiber optic,2,Mailed check,0,0,0
+PT-0585,Female,0,17,52.31,781.52,Month-to-month,DSL,0,Bank transfer,1,0,0
+PT-0586,Female,1,24,59.07,1386.21,Month-to-month,DSL,2,Credit card,0,1,0
+PT-0587,Male,0,68,76.66,5251.47,Month-to-month,Fiber optic,3,Mailed check,0,1,0
+PT-0588,Male,1,55,46.59,2214.77,Month-to-month,DSL,0,Electronic check,1,0,1
+PT-0589,Female,0,33,72.7,2592.45,Month-to-month,Fiber optic,0,Credit card,0,0,0
+PT-0590,Female,0,59,88.16,5123.34,Two year,DSL,2,Mailed check,0,0,0
+PT-0591,Female,0,56,68.09,3247.77,Month-to-month,DSL,0,Credit card,1,1,0
+PT-0592,Female,0,39,27.89,968.64,Month-to-month,No,2,Mailed check,0,0,0
+PT-0593,Male,0,56,95.79,5940.66,One year,DSL,2,Credit card,0,0,0
+PT-0594,Male,0,63,62.43,4357.62,One year,DSL,0,Credit card,0,0,1
+PT-0595,Female,0,64,86.34,5684.64,One year,DSL,0,Credit card,0,1,1
+PT-0596,Male,0,41,69.79,2662.11,One year,No,2,Electronic check,1,1,0
+PT-0597,Female,0,56,21.87,1146.83,Month-to-month,DSL,2,Bank transfer,1,0,0
+PT-0598,Female,0,47,91.64,4694.4,Two year,Fiber optic,3,Bank transfer,0,1,0
+PT-0599,Male,0,21,74.52,1377.55,Month-to-month,No,1,Electronic check,0,0,0
+PT-0600,Female,0,23,94.52,2431.22,Month-to-month,DSL,3,Credit card,0,1,1
+PT-0601,Male,0,34,109.43,4038.61,One year,Fiber optic,0,Electronic check,0,0,0
+PT-0602,Male,0,14,94.12,1136.62,Month-to-month,Fiber optic,0,Mailed check,1,0,0
+PT-0603,Female,1,64,85.93,4838.41,One year,DSL,4,Credit card,1,0,0
+PT-0604,Female,0,37,65.45,2120.32,Month-to-month,Fiber optic,4,Bank transfer,0,0,0
+PT-0605,Female,0,18,92.16,1615.79,Month-to-month,Fiber optic,4,Bank transfer,0,0,1
+PT-0606,Male,1,9,27.63,234.85,Two year,DSL,0,Electronic check,1,0,0
+PT-0607,Male,1,8,108.0,988.43,One year,No,4,Bank transfer,1,0,1
+PT-0608,Female,1,19,83.03,1552.1,Month-to-month,Fiber optic,1,Credit card,1,1,0
+PT-0609,Male,0,11,23.33,243.89,One year,Fiber optic,6,Bank transfer,0,0,0
+PT-0610,Female,1,44,88.13,3482.22,Month-to-month,Fiber optic,6,Bank transfer,0,0,0
+PT-0611,Male,0,48,43.38,2086.92,Month-to-month,Fiber optic,4,Electronic check,1,0,0
+PT-0612,Male,0,39,45.61,1930.76,One year,Fiber optic,1,Credit card,0,0,0
+PT-0613,Male,0,59,28.82,1808.34,Two year,DSL,5,Credit card,0,0,0
+PT-0614,Female,1,72,66.71,4651.51,Month-to-month,Fiber optic,3,Credit card,1,1,0
+PT-0615,Female,0,21,32.99,615.29,One year,DSL,0,Electronic check,0,0,0
+PT-0616,Male,1,48,102.95,4376.43,Two year,DSL,0,Bank transfer,1,0,0
+PT-0617,Male,0,40,109.19,4109.82,Month-to-month,Fiber optic,3,Electronic check,1,0,1
+PT-0618,Female,0,16,69.28,964.68,Month-to-month,Fiber optic,4,Bank transfer,1,0,0
+PT-0619,Female,1,17,88.58,1508.01,Month-to-month,Fiber optic,0,Bank transfer,0,1,0
+PT-0620,Female,0,30,101.02,2884.22,Month-to-month,Fiber optic,3,Credit card,1,1,1
+PT-0621,Male,0,40,70.49,2501.36,One year,DSL,0,Electronic check,0,0,0
+PT-0622,Male,0,69,36.18,2136.17,One year,DSL,0,Credit card,0,1,0
+PT-0623,Female,1,6,64.23,435.54,Month-to-month,DSL,4,Credit card,1,0,1
+PT-0624,Male,1,22,45.68,909.29,One year,DSL,2,Credit card,0,0,0
+PT-0625,Female,0,4,84.2,316.39,Month-to-month,DSL,3,Electronic check,0,0,1
+PT-0626,Male,0,66,87.72,5589.87,Month-to-month,DSL,1,Credit card,1,0,0
+PT-0627,Female,0,3,44.22,151.11,One year,DSL,0,Bank transfer,1,0,1
+PT-0628,Male,0,48,68.64,2966.75,Month-to-month,No,0,Credit card,0,0,0
+PT-0629,Female,0,1,25.42,28.64,Month-to-month,DSL,0,Mailed check,1,0,1
+PT-0630,Male,0,12,55.58,591.52,Month-to-month,Fiber optic,0,Bank transfer,1,0,0
+PT-0631,Female,0,34,108.17,3907.0,Month-to-month,Fiber optic,1,Bank transfer,0,1,1
+PT-0632,Male,1,61,20.39,1060.8,Month-to-month,Fiber optic,3,Credit card,1,1,1
+PT-0633,Male,1,4,100.33,439.37,Month-to-month,DSL,3,Bank transfer,1,0,0
+PT-0634,Male,0,60,53.34,2905.63,Month-to-month,Fiber optic,1,Bank transfer,1,0,1
+PT-0635,Female,0,30,108.21,3701.4,Month-to-month,Fiber optic,1,Electronic check,0,1,0
+PT-0636,Female,1,65,64.46,4254.99,One year,Fiber optic,0,Mailed check,0,1,0
+PT-0637,Male,0,34,104.02,3913.84,Two year,Fiber optic,1,Electronic check,1,1,0
+PT-0638,Female,0,55,77.69,4840.92,Month-to-month,No,5,Credit card,1,0,1
+PT-0639,Female,0,47,66.55,2699.46,One year,DSL,4,Bank transfer,0,0,0
+PT-0640,Male,1,4,109.12,400.55,One year,No,0,Mailed check,0,0,0
+PT-0641,Male,0,4,63.2,276.16,One year,Fiber optic,1,Electronic check,1,0,0
+PT-0642,Male,0,67,91.47,6943.97,One year,Fiber optic,3,Electronic check,1,1,0
+PT-0643,Male,0,49,48.2,2608.15,Month-to-month,DSL,3,Bank transfer,1,0,1
+PT-0644,Male,1,7,46.54,314.19,Month-to-month,Fiber optic,0,Mailed check,0,0,0
+PT-0645,Female,1,13,50.57,743.71,One year,Fiber optic,1,Electronic check,0,1,0
+PT-0646,Male,1,17,77.36,1218.97,Month-to-month,Fiber optic,3,Credit card,0,0,1
+PT-0647,Male,0,17,48.05,801.13,Two year,Fiber optic,0,Mailed check,0,0,0
+PT-0648,Female,0,48,107.32,5178.68,One year,DSL,5,Mailed check,0,0,0
+PT-0649,Male,0,9,50.74,479.66,One year,No,0,Bank transfer,1,0,0
+PT-0650,Male,0,6,64.63,436.63,One year,Fiber optic,0,Credit card,0,0,0
+PT-0651,Female,0,27,56.03,1660.8,Month-to-month,DSL,0,Mailed check,1,0,1
+PT-0652,Female,0,4,37.92,141.86,Month-to-month,DSL,3,Mailed check,1,1,1
+PT-0653,Male,0,23,95.86,2476.4,Month-to-month,Fiber optic,0,Electronic check,1,0,0
+PT-0654,Male,0,48,79.48,4319.95,Two year,No,4,Credit card,0,0,0
+PT-0655,Male,0,25,67.93,1797.27,Month-to-month,Fiber optic,0,Mailed check,1,0,0
+PT-0656,Male,0,17,96.64,1873.73,Two year,DSL,0,Electronic check,1,1,0
+PT-0657,Male,1,50,87.62,4571.67,One year,Fiber optic,0,Bank transfer,1,1,0
+PT-0658,Female,0,52,77.43,4377.41,One year,DSL,2,Mailed check,1,0,0
+PT-0659,Female,0,49,71.42,3956.8,Month-to-month,Fiber optic,2,Credit card,1,0,0
+PT-0660,Female,1,44,58.35,2542.41,Month-to-month,No,2,Bank transfer,1,0,1
+PT-0661,Female,0,34,78.08,2542.5,Month-to-month,No,0,Bank transfer,0,0,1
+PT-0662,Female,0,70,38.03,2419.83,Month-to-month,DSL,1,Bank transfer,0,1,0
+PT-0663,Male,1,34,20.77,663.7,Two year,Fiber optic,0,Electronic check,1,1,0
+PT-0664,Male,0,30,40.42,1303.23,Month-to-month,Fiber optic,3,Credit card,1,0,0
+PT-0665,Female,0,55,89.31,5203.74,Month-to-month,Fiber optic,0,Mailed check,1,1,1
+PT-0666,Female,0,29,57.72,1767.16,Month-to-month,Fiber optic,1,Bank transfer,1,1,1
+PT-0667,Male,0,20,107.95,2479.13,One year,Fiber optic,4,Credit card,1,0,0
+PT-0668,Male,1,50,36.95,1630.59,One year,Fiber optic,0,Bank transfer,0,0,0
+PT-0669,Male,0,63,22.42,1284.91,Two year,Fiber optic,2,Electronic check,1,0,0
+PT-0670,Male,0,42,97.37,3980.18,Month-to-month,DSL,3,Credit card,1,1,1
+PT-0671,Male,0,27,47.88,1416.05,One year,DSL,0,Mailed check,1,0,0
+PT-0672,Male,0,9,94.21,874.56,Month-to-month,DSL,1,Credit card,1,0,0
+PT-0673,Male,0,59,51.21,3331.96,One year,Fiber optic,3,Credit card,0,0,0
+PT-0674,Female,0,50,101.97,4614.31,One year,Fiber optic,0,Electronic check,0,0,0
+PT-0675,Female,0,28,101.79,2774.26,One year,DSL,0,Bank transfer,1,0,0
+PT-0676,Male,1,6,61.6,322.28,One year,Fiber optic,4,Credit card,1,1,0
+PT-0677,Male,0,5,20.97,92.73,Two year,DSL,1,Electronic check,0,1,0
+PT-0678,Female,0,61,93.84,6310.8,Month-to-month,DSL,0,Electronic check,0,0,1
+PT-0679,Female,0,10,80.43,686.36,Month-to-month,Fiber optic,3,Mailed check,1,1,1
+PT-0680,Male,0,40,59.96,2469.06,Month-to-month,Fiber optic,4,Mailed check,0,0,0
+PT-0681,Male,0,3,57.95,199.37,Month-to-month,DSL,1,Electronic check,0,1,1
+PT-0682,Female,1,14,93.41,1238.17,One year,Fiber optic,0,Credit card,1,0,0
+PT-0683,Male,0,42,35.63,1452.53,Month-to-month,Fiber optic,1,Bank transfer,1,0,1
+PT-0684,Male,0,39,89.08,3473.68,Two year,Fiber optic,2,Mailed check,1,0,0
+PT-0685,Female,0,43,35.78,1659.34,One year,No,1,Electronic check,1,0,0
+PT-0686,Male,1,2,40.93,84.72,Two year,DSL,1,Credit card,0,1,1
+PT-0687,Male,0,64,46.7,2676.47,Month-to-month,DSL,4,Credit card,1,0,0
+PT-0688,Male,1,54,78.32,3960.88,Month-to-month,No,0,Bank transfer,1,0,0
+PT-0689,Male,0,29,74.73,2090.12,Month-to-month,Fiber optic,6,Electronic check,0,0,0
+PT-0690,Male,0,17,28.26,493.77,Two year,No,2,Mailed check,0,0,0
+PT-0691,Female,0,26,42.04,986.94,Month-to-month,DSL,0,Bank transfer,1,0,0
+PT-0692,Female,0,49,35.1,1689.65,One year,Fiber optic,2,Mailed check,1,0,0
+PT-0693,Female,0,39,73.57,2570.37,One year,DSL,0,Credit card,1,0,0
+PT-0694,Female,0,20,102.45,1744.22,Two year,Fiber optic,2,Bank transfer,1,0,0
+PT-0695,Female,0,50,64.06,3338.53,One year,Fiber optic,6,Credit card,0,0,0
+PT-0696,Female,0,66,83.82,5756.14,Month-to-month,DSL,3,Credit card,1,1,0
+PT-0697,Female,0,47,76.79,3800.15,One year,Fiber optic,1,Mailed check,1,0,0
+PT-0698,Male,0,15,89.39,1398.93,Two year,Fiber optic,4,Electronic check,0,0,0
+PT-0699,Female,0,39,65.06,2562.61,Two year,Fiber optic,1,Electronic check,0,1,0
+PT-0700,Female,0,35,87.39,3453.23,Month-to-month,DSL,0,Mailed check,1,0,1
+PT-0701,Female,1,54,78.91,4559.05,Month-to-month,Fiber optic,1,Mailed check,0,0,0
+PT-0702,Male,0,26,25.31,595.43,One year,DSL,0,Credit card,1,1,0
+PT-0703,Male,0,11,46.38,491.47,Month-to-month,DSL,0,Electronic check,0,0,1
+PT-0704,Male,1,6,28.72,173.47,Month-to-month,Fiber optic,0,Bank transfer,1,0,0
+PT-0705,Female,0,48,81.37,3721.89,Month-to-month,DSL,0,Electronic check,1,0,0
+PT-0706,Male,0,52,85.27,4950.12,Month-to-month,Fiber optic,3,Bank transfer,0,0,0
+PT-0707,Female,1,53,79.42,3581.82,One year,No,0,Electronic check,1,1,0
+PT-0708,Female,0,11,51.35,639.26,Two year,Fiber optic,4,Electronic check,1,0,0
+PT-0709,Male,1,65,22.86,1484.98,Month-to-month,No,7,Credit card,0,0,0
+PT-0710,Female,1,31,41.9,1170.48,Two year,Fiber optic,1,Electronic check,1,1,1
+PT-0711,Female,0,36,39.83,1329.62,Month-to-month,No,2,Credit card,0,1,0
+PT-0712,Male,1,9,77.96,675.75,One year,Fiber optic,2,Credit card,1,0,1
+PT-0713,Male,0,12,30.02,342.97,One year,DSL,4,Mailed check,1,0,0
+PT-0714,Male,0,8,73.11,530.46,Month-to-month,Fiber optic,1,Bank transfer,0,1,0
+PT-0715,Male,0,51,20.83,1174.63,Month-to-month,No,1,Credit card,0,1,0
+PT-0716,Male,1,41,47.8,2248.09,Month-to-month,No,3,Credit card,0,0,0
+PT-0717,Female,0,43,33.74,1545.17,Two year,No,2,Mailed check,1,1,0
+PT-0718,Male,0,71,55.31,3835.63,Month-to-month,DSL,5,Credit card,1,0,0
+PT-0719,Female,0,25,83.1,2107.42,Month-to-month,DSL,3,Electronic check,1,0,0
+PT-0720,Male,0,62,46.2,2559.19,Month-to-month,Fiber optic,0,Electronic check,1,1,0
+PT-0721,Male,0,49,105.54,5058.38,Two year,No,6,Mailed check,0,0,0
+PT-0722,Female,1,56,107.28,6236.52,Month-to-month,DSL,5,Mailed check,1,0,0
+PT-0723,Male,0,12,90.0,1198.23,One year,DSL,0,Electronic check,0,0,1
+PT-0724,Male,0,62,44.64,2971.4,One year,DSL,0,Credit card,1,0,0
+PT-0725,Male,0,9,84.24,840.54,One year,Fiber optic,1,Credit card,0,1,0
+PT-0726,Male,0,16,36.26,597.41,Month-to-month,Fiber optic,0,Bank transfer,0,0,1
+PT-0727,Male,0,12,70.62,936.79,Month-to-month,No,0,Mailed check,1,1,1
+PT-0728,Female,0,67,101.42,6373.97,One year,DSL,1,Credit card,1,1,0
+PT-0729,Female,1,69,65.95,4807.11,One year,DSL,3,Mailed check,0,1,0
+PT-0730,Female,0,17,85.62,1421.49,One year,DSL,2,Mailed check,1,0,1
+PT-0731,Female,0,19,68.23,1129.36,One year,No,1,Bank transfer,0,0,0
+PT-0732,Female,0,49,22.33,1128.18,Month-to-month,DSL,0,Electronic check,1,0,0
+PT-0733,Male,0,43,90.03,3460.54,One year,DSL,6,Mailed check,1,0,0
+PT-0734,Male,0,68,85.55,5479.79,Two year,Fiber optic,5,Bank transfer,1,1,0
+PT-0735,Male,0,22,48.62,1150.46,Month-to-month,No,0,Credit card,1,1,1
+PT-0736,Male,1,20,79.18,1413.84,One year,DSL,0,Bank transfer,0,1,0
+PT-0737,Female,0,57,108.76,6754.41,One year,DSL,0,Mailed check,1,1,0
+PT-0738,Female,0,41,96.07,4098.01,Month-to-month,DSL,4,Electronic check,0,1,1
+PT-0739,Female,1,64,92.75,5064.65,Two year,Fiber optic,2,Credit card,0,0,1
+PT-0740,Male,0,55,83.23,4920.52,Month-to-month,Fiber optic,1,Electronic check,1,0,0
+PT-0741,Male,0,10,53.03,471.96,Month-to-month,DSL,0,Electronic check,1,1,1
+PT-0742,Male,0,39,63.48,2301.0,Month-to-month,Fiber optic,2,Credit card,0,0,0
+PT-0743,Male,0,63,25.17,1350.66,Month-to-month,DSL,3,Mailed check,1,0,1
+PT-0744,Female,0,26,27.63,721.47,Month-to-month,DSL,3,Credit card,0,0,0
+PT-0745,Female,0,61,55.58,3186.23,Month-to-month,DSL,2,Credit card,1,0,1
+PT-0746,Female,0,46,99.52,4865.26,Month-to-month,DSL,1,Mailed check,1,0,0
+PT-0747,Male,0,26,105.35,3116.85,Two year,DSL,0,Mailed check,1,0,0
+PT-0748,Female,0,15,106.19,1732.72,Month-to-month,DSL,2,Electronic check,0,0,0
+PT-0749,Female,0,2,59.09,110.72,Month-to-month,Fiber optic,2,Mailed check,0,0,0
+PT-0750,Female,0,55,37.86,2211.27,Two year,Fiber optic,3,Mailed check,0,1,0
+PT-0751,Male,0,16,31.91,439.85,Two year,No,0,Electronic check,0,0,0
+PT-0752,Female,0,29,50.26,1448.44,One year,Fiber optic,3,Bank transfer,0,0,0
+PT-0753,Female,0,32,48.79,1349.36,Month-to-month,DSL,1,Credit card,1,1,1
+PT-0754,Male,0,63,52.72,3126.42,Month-to-month,DSL,0,Mailed check,1,0,0
+PT-0755,Female,1,68,74.42,4663.18,Month-to-month,Fiber optic,2,Electronic check,0,1,0
+PT-0756,Male,0,58,103.3,5227.28,One year,DSL,2,Credit card,0,1,0
+PT-0757,Male,0,25,57.64,1532.48,Two year,Fiber optic,3,Bank transfer,1,0,0
+PT-0758,Male,0,9,63.45,575.12,Two year,Fiber optic,0,Mailed check,1,1,0
+PT-0759,Female,0,8,91.5,774.56,One year,Fiber optic,0,Electronic check,0,0,0
+PT-0760,Female,1,50,56.08,2611.78,Month-to-month,DSL,0,Mailed check,0,1,0
+PT-0761,Female,0,29,46.67,1259.44,Month-to-month,DSL,0,Mailed check,1,0,0
+PT-0762,Male,0,27,68.11,1563.9,Month-to-month,Fiber optic,1,Bank transfer,1,0,0
+PT-0763,Female,0,53,100.85,5016.16,Two year,Fiber optic,3,Bank transfer,0,0,0
+PT-0764,Male,0,33,98.3,3374.6,One year,No,2,Mailed check,1,0,0
+PT-0765,Female,0,58,40.86,2530.76,Month-to-month,No,3,Mailed check,0,0,0
+PT-0766,Male,0,3,47.91,160.34,Two year,Fiber optic,2,Mailed check,0,0,1
+PT-0767,Male,0,52,29.02,1521.16,One year,No,0,Electronic check,0,0,0
+PT-0768,Male,0,32,89.31,2658.71,Two year,Fiber optic,0,Electronic check,0,1,0
+PT-0769,Female,0,26,32.53,911.67,Two year,No,1,Mailed check,0,1,0
+PT-0770,Male,0,6,29.25,164.8,One year,No,4,Mailed check,0,0,1
+PT-0771,Female,0,19,51.8,921.26,Two year,Fiber optic,0,Electronic check,1,0,0
+PT-0772,Male,0,37,52.16,1996.91,Month-to-month,No,0,Electronic check,0,1,1
+PT-0773,Female,1,43,73.97,3351.93,Month-to-month,Fiber optic,0,Bank transfer,0,0,0
+PT-0774,Female,0,10,91.0,1008.75,Two year,Fiber optic,5,Mailed check,1,0,0
+PT-0775,Female,0,15,72.01,1229.08,Month-to-month,DSL,3,Credit card,1,0,0
+PT-0776,Female,0,43,32.44,1580.74,Two year,Fiber optic,1,Credit card,1,1,0
+PT-0777,Male,0,11,72.29,776.54,One year,Fiber optic,1,Mailed check,1,0,1
+PT-0778,Male,0,72,62.65,4014.96,Month-to-month,No,0,Bank transfer,0,0,0
+PT-0779,Female,0,27,94.5,2211.54,Month-to-month,No,1,Electronic check,1,0,1
+PT-0780,Male,1,10,62.91,646.83,Month-to-month,DSL,0,Mailed check,0,0,1
+PT-0781,Female,0,24,62.28,1333.34,One year,No,0,Credit card,0,0,0
+PT-0782,Male,0,23,65.3,1281.51,Two year,Fiber optic,2,Credit card,1,1,0
+PT-0783,Male,0,21,44.46,819.36,Month-to-month,No,1,Electronic check,0,0,1
+PT-0784,Male,0,62,48.19,3114.96,Two year,DSL,0,Bank transfer,1,0,0
+PT-0785,Male,0,47,74.29,3854.7,Month-to-month,DSL,1,Electronic check,1,0,0
+PT-0786,Male,0,35,27.65,988.11,Month-to-month,No,1,Credit card,0,0,0
+PT-0787,Female,0,46,87.65,4586.78,One year,DSL,0,Mailed check,0,0,0
+PT-0788,Male,1,20,22.13,481.91,Month-to-month,No,3,Electronic check,1,0,1
+PT-0789,Female,0,12,105.75,1166.81,Month-to-month,Fiber optic,4,Bank transfer,1,0,0
+PT-0790,Female,1,56,23.6,1405.96,One year,DSL,4,Electronic check,0,1,0
+PT-0791,Female,0,2,32.84,72.98,One year,No,2,Electronic check,1,0,0
+PT-0792,Female,0,9,45.21,390.21,Month-to-month,DSL,1,Credit card,1,0,0
+PT-0793,Female,0,16,107.45,1713.14,Month-to-month,DSL,0,Mailed check,1,0,0
+PT-0794,Female,0,11,81.4,897.0,Month-to-month,No,3,Electronic check,0,1,0
+PT-0795,Male,0,14,46.16,579.98,Month-to-month,DSL,0,Electronic check,1,0,0
+PT-0796,Female,0,11,36.22,351.61,Two year,Fiber optic,3,Credit card,0,0,0
+PT-0797,Female,0,63,39.14,2644.31,Month-to-month,Fiber optic,0,Mailed check,0,0,0
+PT-0798,Female,0,47,91.06,4894.27,Month-to-month,DSL,0,Electronic check,1,0,0
+PT-0799,Male,0,19,26.23,484.18,Month-to-month,Fiber optic,3,Bank transfer,0,0,1
+PT-0800,Female,0,39,34.81,1296.2,Month-to-month,Fiber optic,0,Mailed check,1,0,0
+PT-0801,Female,0,72,90.48,6704.39,Month-to-month,Fiber optic,0,Bank transfer,0,0,0
+PT-0802,Male,0,41,30.22,1413.71,Month-to-month,Fiber optic,0,Electronic check,1,0,0
+PT-0803,Male,0,28,87.11,2210.53,One year,Fiber optic,0,Mailed check,0,1,0
+PT-0804,Male,0,47,21.46,1128.64,One year,No,1,Credit card,1,0,0
+PT-0805,Female,1,55,67.09,3983.39,Month-to-month,DSL,0,Mailed check,1,0,0
+PT-0806,Female,0,13,109.58,1555.29,Month-to-month,Fiber optic,2,Credit card,0,0,0
+PT-0807,Male,0,65,72.31,4041.15,Month-to-month,Fiber optic,2,Credit card,0,0,0
+PT-0808,Male,0,60,57.16,3759.27,One year,Fiber optic,4,Electronic check,1,0,0
+PT-0809,Female,0,40,95.46,4156.49,Month-to-month,DSL,3,Electronic check,0,0,0
+PT-0810,Female,0,22,106.32,2684.86,Month-to-month,No,0,Mailed check,1,0,0
+PT-0811,Female,0,50,107.96,4869.62,Two year,Fiber optic,1,Mailed check,0,1,0
+PT-0812,Female,0,71,34.31,2306.22,Month-to-month,DSL,2,Electronic check,0,0,0
+PT-0813,Male,1,49,22.28,1168.41,Two year,Fiber optic,2,Mailed check,1,0,0
+PT-0814,Male,0,34,79.33,2515.13,Two year,Fiber optic,0,Electronic check,0,0,0
+PT-0815,Male,0,19,45.42,965.14,Month-to-month,Fiber optic,0,Credit card,0,0,0
+PT-0816,Female,0,63,106.33,5847.33,One year,Fiber optic,4,Bank transfer,1,0,0
+PT-0817,Male,0,5,30.55,145.55,Month-to-month,No,1,Bank transfer,0,0,0
+PT-0818,Male,1,66,88.49,5343.28,Month-to-month,No,1,Electronic check,1,0,0
+PT-0819,Male,0,36,63.34,2590.28,Month-to-month,Fiber optic,1,Credit card,1,1,0
+PT-0820,Male,0,23,37.81,959.91,One year,No,5,Electronic check,1,0,0
+PT-0821,Female,0,58,58.14,3622.07,Two year,Fiber optic,0,Bank transfer,1,1,0
+PT-0822,Female,0,5,106.23,491.8,Month-to-month,Fiber optic,0,Bank transfer,1,0,1
+PT-0823,Female,0,24,52.2,1092.18,One year,Fiber optic,2,Bank transfer,0,1,0
+PT-0824,Female,1,42,100.89,4315.74,Month-to-month,Fiber optic,0,Mailed check,0,1,1
+PT-0825,Male,1,54,81.39,4309.63,Two year,DSL,4,Electronic check,1,0,0
+PT-0826,Female,0,42,73.21,2831.68,Month-to-month,DSL,2,Electronic check,1,0,1
+PT-0827,Female,0,69,102.62,6101.76,One year,DSL,4,Bank transfer,1,0,0
+PT-0828,Female,0,72,89.72,6447.86,Month-to-month,DSL,4,Credit card,1,1,0
+PT-0829,Male,0,14,22.64,273.96,Month-to-month,DSL,0,Credit card,0,0,1
+PT-0830,Female,1,1,104.07,115.56,Month-to-month,Fiber optic,4,Electronic check,0,0,1
+PT-0831,Female,1,49,44.29,1955.58,Month-to-month,Fiber optic,4,Credit card,1,1,1
+PT-0832,Male,1,62,79.51,5634.09,Month-to-month,Fiber optic,4,Mailed check,0,0,0
+PT-0833,Male,0,72,95.2,6324.64,One year,No,1,Credit card,0,0,1
+PT-0834,Male,0,50,36.91,1626.55,Month-to-month,Fiber optic,1,Bank transfer,1,1,0
+PT-0835,Male,1,14,102.27,1310.99,Month-to-month,No,3,Credit card,0,0,0
+PT-0836,Male,0,14,33.26,518.19,One year,DSL,0,Credit card,0,0,1
+PT-0837,Female,0,34,30.65,1057.83,Month-to-month,DSL,0,Bank transfer,0,0,0
+PT-0838,Male,0,49,85.88,4110.39,Month-to-month,Fiber optic,3,Bank transfer,1,1,0
+PT-0839,Male,0,15,39.76,516.45,Month-to-month,DSL,2,Mailed check,1,0,0
+PT-0840,Male,0,64,38.51,2675.9,Month-to-month,DSL,2,Bank transfer,0,0,0
+PT-0841,Female,0,31,35.32,1154.52,Month-to-month,DSL,0,Credit card,1,0,1
+PT-0842,Female,0,22,81.13,1973.92,One year,No,3,Electronic check,1,0,0
+PT-0843,Male,0,38,95.18,3644.26,Month-to-month,DSL,3,Bank transfer,1,0,0
+PT-0844,Female,0,33,52.79,1487.85,Month-to-month,Fiber optic,2,Credit card,0,0,0
+PT-0845,Male,0,53,97.06,5390.12,Month-to-month,Fiber optic,2,Credit card,1,0,0
+PT-0846,Male,0,14,106.89,1665.77,One year,No,5,Credit card,0,0,0
+PT-0847,Female,0,51,73.02,4221.47,Month-to-month,DSL,0,Electronic check,1,0,0
+PT-0848,Female,0,15,107.25,1608.23,One year,Fiber optic,0,Mailed check,1,1,0
+PT-0849,Male,0,63,45.94,3154.51,Month-to-month,DSL,1,Electronic check,1,0,1
+PT-0850,Female,0,7,42.63,285.0,Month-to-month,No,4,Mailed check,0,1,1
+PT-0851,Male,0,11,46.17,436.59,Two year,DSL,1,Credit card,0,0,0
+PT-0852,Female,0,56,81.1,4299.73,One year,Fiber optic,0,Mailed check,1,0,0
+PT-0853,Male,0,40,27.7,1130.16,One year,Fiber optic,0,Credit card,0,0,0
+PT-0854,Female,1,46,62.15,2796.86,Month-to-month,Fiber optic,4,Electronic check,0,0,1
+PT-0855,Male,1,39,90.8,3626.53,Month-to-month,Fiber optic,5,Electronic check,1,0,0
+PT-0856,Male,0,67,61.42,3564.96,Month-to-month,No,0,Electronic check,1,1,1
+PT-0857,Female,1,62,82.15,5649.97,Month-to-month,Fiber optic,0,Mailed check,0,1,0
+PT-0858,Female,0,29,100.55,3038.13,Month-to-month,Fiber optic,1,Electronic check,1,1,0
+PT-0859,Male,0,1,33.77,37.62,One year,DSL,2,Credit card,1,0,0
+PT-0860,Female,0,62,108.44,7369.26,Two year,Fiber optic,2,Credit card,0,0,0
+PT-0861,Male,0,19,93.67,1863.8,Month-to-month,Fiber optic,0,Bank transfer,1,1,1
+PT-0862,Female,0,36,55.21,2105.41,Month-to-month,Fiber optic,1,Credit card,0,0,0
+PT-0863,Male,1,50,20.99,987.4,One year,No,1,Bank transfer,0,0,0
+PT-0864,Female,0,2,108.36,207.47,Two year,Fiber optic,1,Bank transfer,1,1,1
+PT-0865,Male,0,44,61.35,2989.85,Month-to-month,Fiber optic,0,Electronic check,1,0,0
+PT-0866,Male,1,65,89.79,5880.88,Month-to-month,DSL,0,Bank transfer,1,0,1
+PT-0867,Male,0,13,79.87,1038.13,One year,DSL,2,Mailed check,0,0,0
+PT-0868,Female,0,9,25.57,212.9,Month-to-month,Fiber optic,5,Credit card,1,1,0
+PT-0869,Male,0,42,29.69,1228.09,Month-to-month,Fiber optic,0,Credit card,1,1,0
+PT-0870,Male,0,56,93.25,5705.57,Month-to-month,Fiber optic,1,Electronic check,0,0,0
+PT-0871,Male,0,53,71.15,4183.29,Month-to-month,Fiber optic,5,Credit card,0,0,0
+PT-0872,Female,1,46,52.08,2682.99,Two year,No,1,Credit card,1,1,0
+PT-0873,Male,1,11,31.45,347.74,Month-to-month,Fiber optic,4,Electronic check,0,0,0
+PT-0874,Female,0,46,26.12,1335.42,Two year,DSL,2,Mailed check,1,0,0
+PT-0875,Male,1,61,104.32,7289.29,One year,DSL,0,Electronic check,0,0,0
+PT-0876,Female,0,31,64.42,2180.14,One year,Fiber optic,2,Electronic check,1,0,0
+PT-0877,Male,1,62,105.19,6072.77,Month-to-month,DSL,0,Credit card,1,0,0
+PT-0878,Male,0,8,22.37,194.09,Month-to-month,Fiber optic,1,Credit card,0,1,0
+PT-0879,Female,0,17,58.67,975.5,Month-to-month,Fiber optic,6,Bank transfer,1,0,0
+PT-0880,Male,0,30,28.28,723.7,Month-to-month,Fiber optic,0,Electronic check,0,1,0
+PT-0881,Male,0,8,31.4,227.13,Month-to-month,DSL,1,Bank transfer,0,1,0
+PT-0882,Male,0,10,42.52,430.77,Month-to-month,Fiber optic,0,Bank transfer,0,0,0
+PT-0883,Female,1,38,98.21,3445.59,Two year,DSL,1,Bank transfer,1,1,0
+PT-0884,Female,0,11,38.32,375.63,Two year,DSL,1,Mailed check,0,0,0
+PT-0885,Male,0,31,82.85,2683.85,Month-to-month,DSL,1,Bank transfer,1,0,0
+PT-0886,Male,0,36,96.91,3367.28,Month-to-month,Fiber optic,2,Credit card,0,0,1
+PT-0887,Male,0,69,24.7,1604.67,One year,DSL,4,Bank transfer,1,1,0
+PT-0888,Male,0,56,97.92,5948.43,Two year,Fiber optic,2,Electronic check,1,1,0
+PT-0889,Female,1,60,58.15,3718.46,One year,DSL,4,Mailed check,0,0,0
+PT-0890,Female,0,32,89.42,2686.17,One year,DSL,1,Bank transfer,1,0,0
+PT-0891,Male,0,40,71.16,2693.54,Month-to-month,DSL,0,Credit card,0,0,0
+PT-0892,Male,0,8,72.16,504.46,Two year,Fiber optic,2,Electronic check,1,0,0
+PT-0893,Female,0,64,31.45,2091.5,Month-to-month,Fiber optic,2,Electronic check,0,1,0
+PT-0894,Female,1,41,23.78,1038.56,Month-to-month,Fiber optic,2,Bank transfer,1,0,0
+PT-0895,Female,1,6,74.05,424.27,Month-to-month,Fiber optic,0,Bank transfer,1,1,0
+PT-0896,Female,0,19,22.22,435.73,Month-to-month,No,1,Bank transfer,1,0,0
+PT-0897,Male,0,6,46.18,247.99,One year,DSL,2,Bank transfer,0,0,0
+PT-0898,Male,0,49,88.64,4537.78,Two year,No,3,Mailed check,1,1,0
+PT-0899,Male,1,61,79.33,4868.65,Month-to-month,DSL,0,Bank transfer,0,0,0
+PT-0900,Female,0,31,60.05,2117.11,Month-to-month,DSL,0,Electronic check,1,1,0
+PT-0901,Male,0,54,40.68,2412.76,Two year,No,2,Mailed check,1,0,0
+PT-0902,Male,0,53,57.89,3512.98,One year,Fiber optic,6,Mailed check,0,0,1
+PT-0903,Male,0,34,88.9,3214.28,Month-to-month,DSL,4,Electronic check,0,0,1
+PT-0904,Female,0,46,31.47,1533.14,Month-to-month,DSL,0,Bank transfer,1,1,0
+PT-0905,Male,0,10,86.49,827.27,Month-to-month,Fiber optic,0,Bank transfer,1,1,1
+PT-0906,Male,1,66,27.54,2033.36,One year,Fiber optic,3,Credit card,1,0,0
+PT-0907,Female,0,30,46.76,1335.94,One year,No,0,Credit card,1,0,0
+PT-0908,Male,0,6,93.26,598.95,Two year,DSL,0,Bank transfer,1,0,0
+PT-0909,Male,0,37,44.65,1621.78,Two year,DSL,7,Electronic check,0,1,0
+PT-0910,Male,0,71,95.49,7298.17,Month-to-month,No,0,Mailed check,0,0,0
+PT-0911,Male,0,27,45.37,1389.58,Month-to-month,Fiber optic,3,Electronic check,0,0,0
+PT-0912,Female,0,12,97.81,1347.34,One year,DSL,3,Bank transfer,0,1,0
+PT-0913,Male,0,21,65.64,1285.85,One year,Fiber optic,2,Bank transfer,0,0,1
+PT-0914,Female,0,72,79.5,6372.37,Month-to-month,Fiber optic,0,Electronic check,0,0,0
+PT-0915,Male,0,34,62.31,2108.69,Month-to-month,Fiber optic,3,Electronic check,0,0,0
+PT-0916,Female,1,27,83.9,1951.88,One year,Fiber optic,4,Mailed check,1,0,0
+PT-0917,Male,0,30,98.75,3111.79,Month-to-month,Fiber optic,0,Bank transfer,0,0,1
+PT-0918,Female,0,58,49.29,2998.12,Month-to-month,Fiber optic,0,Bank transfer,0,0,0
+PT-0919,Male,0,63,74.1,4930.5,Month-to-month,DSL,2,Credit card,0,1,0
+PT-0920,Female,0,53,55.22,2875.69,Month-to-month,No,5,Bank transfer,1,1,1
+PT-0921,Male,0,58,56.88,3370.8,Month-to-month,DSL,0,Bank transfer,0,1,0
+PT-0922,Male,0,12,90.24,1028.72,Month-to-month,Fiber optic,0,Electronic check,0,1,1
+PT-0923,Male,0,69,55.6,4087.09,Month-to-month,DSL,0,Mailed check,0,0,0
+PT-0924,Male,1,51,91.22,4013.4,Month-to-month,DSL,3,Mailed check,0,0,0
+PT-0925,Female,0,17,93.65,1771.93,Two year,DSL,0,Credit card,0,0,0
+PT-0926,Male,0,51,37.49,1972.61,Month-to-month,DSL,1,Electronic check,1,0,0
+PT-0927,Male,0,61,53.89,3217.8,Month-to-month,Fiber optic,1,Mailed check,1,0,0
+PT-0928,Female,0,70,84.31,5817.19,One year,DSL,3,Mailed check,1,0,0
+PT-0929,Male,0,43,32.94,1471.62,Month-to-month,Fiber optic,3,Mailed check,0,0,0
+PT-0930,Female,1,30,25.3,757.5,Month-to-month,Fiber optic,6,Mailed check,0,0,0
+PT-0931,Female,0,35,82.14,3094.86,One year,Fiber optic,0,Bank transfer,1,1,0
+PT-0932,Male,0,55,82.93,4391.05,One year,DSL,4,Electronic check,0,0,0
+PT-0933,Male,0,55,64.57,3685.77,One year,DSL,3,Electronic check,1,0,0
+PT-0934,Female,0,67,49.01,3667.41,One year,DSL,0,Bank transfer,0,1,0
+PT-0935,Female,1,33,62.49,1883.14,Month-to-month,Fiber optic,6,Mailed check,1,0,1
+PT-0936,Male,0,61,26.03,1815.04,Month-to-month,DSL,1,Electronic check,1,0,1
+PT-0937,Female,1,21,26.01,568.55,Two year,DSL,3,Bank transfer,1,1,0
+PT-0938,Female,1,52,104.09,5511.91,One year,DSL,2,Mailed check,0,1,0
+PT-0939,Male,0,14,31.4,442.54,One year,Fiber optic,0,Bank transfer,1,0,0
+PT-0940,Male,0,12,103.66,1286.81,Month-to-month,Fiber optic,0,Electronic check,1,0,0
+PT-0941,Male,0,66,92.65,5978.06,Month-to-month,DSL,2,Credit card,1,0,0
+PT-0942,Female,0,67,48.53,2840.06,One year,DSL,0,Mailed check,1,1,0
+PT-0943,Female,1,57,64.11,3971.06,One year,Fiber optic,0,Electronic check,1,0,0
+PT-0944,Female,0,28,75.53,2353.58,Two year,DSL,2,Bank transfer,0,1,0
+PT-0945,Male,0,47,67.34,2695.56,Month-to-month,DSL,0,Electronic check,1,0,0
+PT-0946,Female,0,6,109.62,698.02,Month-to-month,DSL,3,Electronic check,1,1,0
+PT-0947,Female,0,61,87.49,5573.13,One year,DSL,0,Mailed check,0,0,0
+PT-0948,Male,0,57,77.37,3831.03,Month-to-month,Fiber optic,4,Mailed check,0,0,0
+PT-0949,Female,0,47,66.47,3536.98,Month-to-month,No,1,Mailed check,1,0,1
+PT-0950,Male,0,26,81.98,2073.45,One year,No,1,Electronic check,1,0,0
+PT-0951,Male,0,60,71.14,4519.76,One year,Fiber optic,2,Electronic check,0,0,0
+PT-0952,Male,0,2,39.58,76.18,Month-to-month,Fiber optic,2,Mailed check,1,1,0
+PT-0953,Male,0,40,24.8,1053.28,Month-to-month,DSL,1,Mailed check,1,0,1
+PT-0954,Female,0,57,43.81,2489.59,One year,DSL,3,Credit card,0,0,0
+PT-0955,Female,0,69,71.18,5638.93,Month-to-month,Fiber optic,1,Bank transfer,1,0,0
+PT-0956,Male,0,28,62.09,1494.14,Month-to-month,Fiber optic,0,Mailed check,1,0,0
+PT-0957,Female,0,49,79.25,4350.73,Month-to-month,DSL,0,Mailed check,1,0,0
+PT-0958,Male,0,46,47.56,2166.0,Month-to-month,DSL,5,Credit card,1,1,0
+PT-0959,Male,0,48,74.08,3537.23,Month-to-month,DSL,3,Electronic check,1,0,0
+PT-0960,Female,1,4,34.76,125.12,Month-to-month,Fiber optic,1,Mailed check,0,0,0
+PT-0961,Male,0,40,91.36,3261.33,Month-to-month,Fiber optic,0,Mailed check,0,0,0
+PT-0962,Male,0,27,59.29,1708.47,Month-to-month,Fiber optic,2,Bank transfer,0,0,1
+PT-0963,Male,0,71,81.81,6154.89,Two year,Fiber optic,3,Electronic check,1,0,0
+PT-0964,Male,0,42,100.82,4640.68,One year,Fiber optic,0,Credit card,0,0,0
+PT-0965,Male,0,23,89.11,1969.06,Month-to-month,No,0,Electronic check,0,0,0
+PT-0966,Male,0,39,59.19,2197.32,One year,Fiber optic,0,Bank transfer,1,0,0
+PT-0967,Female,0,34,106.27,3528.35,Month-to-month,Fiber optic,3,Electronic check,1,1,0
+PT-0968,Female,0,21,48.71,1045.83,Month-to-month,Fiber optic,0,Credit card,1,0,0
+PT-0969,Female,0,34,86.79,2610.88,Two year,No,0,Bank transfer,1,0,0
+PT-0970,Female,1,50,98.33,4297.03,Month-to-month,No,1,Bank transfer,0,1,0
+PT-0971,Female,0,7,61.83,373.06,Two year,Fiber optic,4,Bank transfer,1,0,0
+PT-0972,Female,0,70,44.05,2892.24,Month-to-month,Fiber optic,2,Bank transfer,0,1,1
+PT-0973,Male,1,51,42.38,1891.67,Month-to-month,Fiber optic,0,Bank transfer,1,0,0
+PT-0974,Male,1,59,23.66,1323.32,Month-to-month,Fiber optic,0,Electronic check,1,1,0
+PT-0975,Male,0,39,58.03,1938.89,Two year,DSL,0,Credit card,0,0,0
+PT-0976,Female,1,66,68.52,4920.81,One year,DSL,0,Credit card,0,0,0
+PT-0977,Male,0,65,80.43,5392.04,Two year,Fiber optic,1,Electronic check,1,1,0
+PT-0978,Female,0,41,28.74,1081.07,One year,DSL,4,Bank transfer,1,1,0
+PT-0979,Female,1,50,62.8,3194.31,Month-to-month,DSL,2,Credit card,0,1,0
+PT-0980,Female,0,52,22.9,1316.65,Two year,Fiber optic,0,Bank transfer,0,0,0
+PT-0981,Female,0,38,87.58,3279.62,Month-to-month,DSL,0,Credit card,1,0,0
+PT-0982,Female,1,63,109.07,6614.32,One year,Fiber optic,0,Electronic check,0,0,0
+PT-0983,Male,1,38,36.08,1230.83,One year,Fiber optic,0,Mailed check,1,1,0
+PT-0984,Female,0,41,65.21,2699.68,Month-to-month,Fiber optic,3,Credit card,1,0,1
+PT-0985,Male,0,37,20.3,825.43,One year,Fiber optic,1,Credit card,1,0,0
+PT-0986,Male,1,29,32.47,975.51,Two year,Fiber optic,1,Credit card,0,0,0
+PT-0987,Male,1,61,81.59,5651.64,Month-to-month,Fiber optic,2,Mailed check,0,0,0
+PT-0988,Male,0,61,104.34,7169.34,Month-to-month,DSL,0,Electronic check,0,1,0
+PT-0989,Male,1,57,109.07,6770.46,Two year,Fiber optic,4,Bank transfer,0,0,0
+PT-0990,Male,0,5,81.38,395.47,One year,Fiber optic,3,Credit card,0,0,0
+PT-0991,Male,1,69,84.33,5711.45,Two year,DSL,3,Electronic check,1,0,0
+PT-0992,Female,0,16,29.33,518.14,One year,Fiber optic,0,Electronic check,0,0,0
+PT-0993,Female,0,32,91.6,2676.26,Month-to-month,Fiber optic,5,Credit card,0,0,1
+PT-0994,Female,0,58,82.96,4910.17,One year,Fiber optic,3,Mailed check,1,0,0
+PT-0995,Female,1,47,84.24,3729.64,One year,Fiber optic,0,Bank transfer,0,1,0
+PT-0996,Male,0,38,97.32,3428.9,Month-to-month,No,4,Bank transfer,0,1,1
+PT-0997,Female,1,67,56.53,3922.11,Month-to-month,DSL,4,Bank transfer,1,0,0
+PT-0998,Female,0,68,63.38,4289.15,Month-to-month,Fiber optic,5,Electronic check,1,0,0
+PT-0999,Male,0,36,74.78,2876.83,Month-to-month,DSL,0,Electronic check,0,1,1
+PT-1000,Male,0,13,105.68,1376.9,Month-to-month,No,2,Electronic check,0,0,0
+PT-1001,Male,0,33,91.75,2739.52,Two year,No,2,Mailed check,0,1,0
+PT-1002,Female,0,25,86.0,2419.27,Two year,DSL,5,Bank transfer,0,0,0
+PT-1003,Female,0,13,68.32,963.14,Month-to-month,Fiber optic,2,Electronic check,1,0,1
+PT-1004,Male,1,63,47.0,2525.38,Month-to-month,No,2,Credit card,0,1,0
+PT-1005,Female,0,33,87.91,2989.24,Month-to-month,DSL,0,Bank transfer,1,1,1
+PT-1006,Female,1,65,47.79,3050.48,Two year,No,1,Credit card,0,0,0
+PT-1007,Female,0,21,36.09,817.1,One year,DSL,3,Mailed check,0,0,0
+PT-1008,Male,0,65,47.48,3332.87,Month-to-month,Fiber optic,0,Mailed check,0,0,1
+PT-1009,Female,0,21,74.91,1411.3,Two year,No,0,Bank transfer,0,0,0
+PT-1010,Female,0,19,47.56,965.1,Two year,DSL,0,Bank transfer,1,1,0
+PT-1011,Female,0,52,24.98,1263.42,One year,DSL,0,Mailed check,0,1,0
+PT-1012,Female,0,4,48.97,212.98,Month-to-month,Fiber optic,2,Mailed check,0,1,0
+PT-1013,Female,0,10,41.88,396.87,Month-to-month,Fiber optic,0,Electronic check,1,1,0
+PT-1014,Female,0,36,108.82,4018.73,Month-to-month,DSL,3,Bank transfer,1,1,0
+PT-1015,Female,0,61,32.09,2104.2,Month-to-month,Fiber optic,1,Mailed check,1,1,0
+PT-1016,Male,0,32,49.51,1606.46,One year,Fiber optic,2,Bank transfer,0,0,0
+PT-1017,Male,0,47,101.46,4691.14,Two year,DSL,0,Bank transfer,0,1,0
+PT-1018,Female,0,3,32.62,102.04,Month-to-month,No,2,Electronic check,0,1,0
+PT-1019,Female,0,65,98.58,6075.27,One year,DSL,1,Electronic check,0,1,0
+PT-1020,Male,1,12,71.65,851.66,One year,DSL,2,Electronic check,1,0,0
+PT-1021,Male,0,10,36.35,371.7,Month-to-month,Fiber optic,1,Electronic check,1,1,1
+PT-1022,Female,0,2,40.27,78.78,Month-to-month,DSL,0,Bank transfer,1,1,0
+PT-1023,Female,1,20,37.0,661.92,Month-to-month,DSL,0,Electronic check,0,1,0
+PT-1024,Male,0,41,103.56,4447.43,Month-to-month,DSL,0,Bank transfer,0,0,0
+PT-1025,Male,0,57,31.08,2009.66,Month-to-month,No,2,Electronic check,1,0,0
+PT-1026,Male,0,16,28.36,409.53,Two year,Fiber optic,0,Electronic check,0,0,0
+PT-1027,Female,1,46,87.47,3802.58,Month-to-month,No,2,Bank transfer,0,0,1
+PT-1028,Female,0,52,106.54,4875.38,Month-to-month,DSL,0,Electronic check,1,1,0
+PT-1029,Male,0,61,21.43,1489.29,One year,No,5,Mailed check,0,0,0
+PT-1030,Male,0,5,25.51,139.12,Two year,Fiber optic,3,Bank transfer,1,0,0
+PT-1031,Male,1,20,86.78,1897.18,Month-to-month,No,2,Credit card,0,0,0
+PT-1032,Female,0,42,22.56,812.73,Month-to-month,Fiber optic,2,Mailed check,1,0,0
+PT-1033,Male,0,13,21.34,310.48,Month-to-month,No,3,Credit card,1,0,0
+PT-1034,Male,0,61,62.25,4256.2,Month-to-month,Fiber optic,3,Bank transfer,0,0,0
+PT-1035,Male,0,29,66.33,2099.83,Month-to-month,Fiber optic,1,Bank transfer,0,0,1
+PT-1036,Male,0,43,83.94,3568.43,One year,Fiber optic,0,Bank transfer,0,0,0
+PT-1037,Male,1,5,87.31,475.81,One year,Fiber optic,2,Electronic check,0,0,0
+PT-1038,Male,1,62,63.55,3755.59,One year,No,1,Credit card,1,0,0
+PT-1039,Female,1,57,30.6,1628.72,One year,No,0,Bank transfer,1,0,0
+PT-1040,Female,0,44,88.69,3624.74,One year,Fiber optic,5,Electronic check,0,0,1
+PT-1041,Female,0,16,69.54,1044.45,Two year,DSL,0,Electronic check,0,0,0
+PT-1042,Male,0,29,89.83,2369.58,One year,Fiber optic,4,Mailed check,0,1,0
+PT-1043,Male,1,22,53.7,1039.68,Month-to-month,Fiber optic,0,Mailed check,1,0,0
+PT-1044,Female,0,50,101.09,5770.23,Two year,Fiber optic,0,Mailed check,1,0,0
+PT-1045,Female,0,9,25.33,221.84,Month-to-month,No,2,Mailed check,1,0,0
+PT-1046,Female,1,25,42.37,1011.71,Month-to-month,No,0,Mailed check,1,0,0
+PT-1047,Male,0,57,32.82,1744.73,Month-to-month,Fiber optic,0,Credit card,0,1,0
+PT-1048,Male,1,59,33.83,2223.65,One year,Fiber optic,1,Bank transfer,0,0,0
+PT-1049,Female,0,60,58.33,3151.7,One year,No,0,Electronic check,0,1,0
+PT-1050,Female,0,64,95.3,6946.83,Month-to-month,Fiber optic,2,Bank transfer,1,0,0
+PT-1051,Female,0,33,108.48,3132.1,Month-to-month,No,2,Credit card,1,0,0
+PT-1052,Female,1,49,74.6,4061.58,One year,DSL,4,Electronic check,0,1,0
+PT-1053,Male,0,54,93.38,5372.74,Month-to-month,Fiber optic,0,Electronic check,1,1,0
+PT-1054,Female,0,28,71.02,1704.68,Two year,DSL,2,Credit card,0,1,0
+PT-1055,Female,0,45,51.71,2651.97,Month-to-month,Fiber optic,0,Bank transfer,0,0,0
+PT-1056,Female,0,45,90.29,3663.32,Month-to-month,DSL,4,Bank transfer,0,0,0
+PT-1057,Male,0,52,48.16,2502.21,Month-to-month,Fiber optic,1,Bank transfer,1,0,0
+PT-1058,Male,0,42,21.43,816.3,Month-to-month,Fiber optic,5,Bank transfer,0,0,0
+PT-1059,Male,0,12,28.15,347.73,Two year,Fiber optic,1,Bank transfer,1,0,0
+PT-1060,Male,0,11,49.15,496.02,Two year,DSL,5,Mailed check,1,0,0
+PT-1061,Male,0,29,59.63,1890.88,Month-to-month,DSL,5,Credit card,1,0,0
+PT-1062,Male,0,24,96.31,2367.54,One year,No,1,Credit card,1,1,0
+PT-1063,Female,0,56,53.32,3344.28,Two year,DSL,0,Mailed check,1,1,0
+PT-1064,Male,0,65,83.75,5501.5,Month-to-month,No,5,Mailed check,1,1,0
+PT-1065,Male,0,35,71.68,2172.52,One year,Fiber optic,0,Mailed check,0,1,0
+PT-1066,Male,0,62,98.08,5438.59,One year,DSL,3,Bank transfer,1,1,1
+PT-1067,Female,0,18,108.76,1790.42,Month-to-month,Fiber optic,1,Credit card,0,1,0
+PT-1068,Female,0,7,84.09,563.62,Month-to-month,No,0,Electronic check,1,1,1
+PT-1069,Male,0,23,95.22,1880.92,Two year,Fiber optic,1,Credit card,1,0,0
+PT-1070,Female,0,44,36.47,1513.79,Month-to-month,Fiber optic,2,Bank transfer,1,0,1
+PT-1071,Female,0,30,51.61,1616.68,Month-to-month,Fiber optic,3,Electronic check,0,1,0
+PT-1072,Male,0,68,21.13,1362.21,Month-to-month,No,2,Bank transfer,0,0,0
+PT-1073,Female,0,69,39.65,2608.84,Two year,No,0,Credit card,0,1,0
+PT-1074,Female,0,5,104.18,581.57,One year,DSL,0,Bank transfer,1,0,0
+PT-1075,Male,1,67,35.06,2066.94,Month-to-month,DSL,0,Credit card,1,0,0
+PT-1076,Male,0,32,52.91,1560.78,Two year,DSL,0,Credit card,0,0,0
+PT-1077,Female,1,13,96.3,1098.27,One year,No,0,Credit card,0,0,0
+PT-1078,Female,0,38,104.98,3901.06,Month-to-month,DSL,0,Electronic check,1,0,0
+PT-1079,Female,1,50,47.53,2727.48,One year,Fiber optic,1,Electronic check,0,0,0
+PT-1080,Male,0,7,68.09,411.89,Month-to-month,DSL,0,Electronic check,1,1,0
+PT-1081,Male,1,48,81.3,3369.4,Month-to-month,Fiber optic,2,Bank transfer,0,1,1
+PT-1082,Male,1,2,24.07,46.43,Two year,DSL,3,Bank transfer,0,0,0
+PT-1083,Female,0,50,94.39,4537.97,Two year,DSL,2,Bank transfer,1,1,0
+PT-1084,Female,0,35,56.83,1696.8,Two year,Fiber optic,3,Mailed check,1,0,0
+PT-1085,Female,0,58,31.6,1936.99,Month-to-month,DSL,3,Electronic check,0,1,0
+PT-1086,Female,0,37,68.26,2362.49,One year,DSL,4,Electronic check,1,0,0
+PT-1087,Female,0,17,66.64,975.08,Month-to-month,DSL,3,Electronic check,0,0,0
+PT-1088,Female,0,19,59.78,1227.52,One year,Fiber optic,2,Mailed check,0,1,0
+PT-1089,Male,0,44,97.35,3963.18,Month-to-month,Fiber optic,2,Credit card,0,0,0
+PT-1090,Male,0,25,50.23,1339.07,Month-to-month,Fiber optic,1,Mailed check,1,1,1
+PT-1091,Female,0,15,81.63,1191.36,One year,Fiber optic,4,Bank transfer,0,0,0
+PT-1092,Male,0,49,20.31,863.35,Month-to-month,Fiber optic,6,Mailed check,0,1,0
+PT-1093,Male,0,50,45.42,2350.06,Month-to-month,Fiber optic,0,Bank transfer,1,0,0
+PT-1094,Male,0,69,99.15,6274.56,Month-to-month,Fiber optic,0,Credit card,1,0,0
+PT-1095,Male,0,39,32.96,1269.99,One year,Fiber optic,2,Bank transfer,0,0,0
+PT-1096,Female,0,58,59.95,3360.73,Month-to-month,DSL,4,Credit card,0,1,0
+PT-1097,Male,0,25,71.15,2017.82,One year,Fiber optic,0,Credit card,1,1,0
+PT-1098,Female,0,61,29.78,1899.55,Month-to-month,No,3,Credit card,0,0,0
+PT-1099,Male,0,67,58.86,4467.96,Month-to-month,DSL,0,Mailed check,1,1,0
+PT-1100,Male,0,53,48.48,2373.42,One year,Fiber optic,1,Credit card,1,1,0
+PT-1101,Male,0,9,27.72,212.71,Two year,DSL,3,Bank transfer,0,1,0
+PT-1102,Male,0,9,52.66,532.13,One year,No,0,Credit card,1,1,0
+PT-1103,Female,0,72,34.38,2757.97,Month-to-month,DSL,3,Credit card,1,1,0
+PT-1104,Male,0,19,101.83,1700.9,Month-to-month,No,0,Credit card,1,0,1
+PT-1105,Male,1,47,103.78,5001.88,Month-to-month,No,6,Bank transfer,1,0,0
+PT-1106,Male,0,18,76.16,1443.83,Two year,DSL,1,Mailed check,1,0,0
+PT-1107,Male,0,64,21.44,1533.13,Month-to-month,DSL,2,Bank transfer,0,0,0
+PT-1108,Male,0,31,83.05,2391.59,Two year,DSL,0,Bank transfer,1,1,0
+PT-1109,Male,0,2,86.12,147.4,Month-to-month,No,1,Bank transfer,1,0,0
+PT-1110,Female,0,44,31.91,1339.27,Month-to-month,DSL,2,Bank transfer,1,0,0
+PT-1111,Male,0,66,100.62,5690.62,Month-to-month,Fiber optic,2,Electronic check,0,1,0
+PT-1112,Male,0,2,85.08,182.23,Month-to-month,No,3,Electronic check,0,1,0
+PT-1113,Female,0,14,75.13,911.77,Month-to-month,No,3,Electronic check,0,0,0
+PT-1114,Male,0,7,84.53,571.63,One year,DSL,1,Mailed check,1,1,0
+PT-1115,Female,0,8,59.83,479.73,Month-to-month,No,1,Mailed check,0,1,0
+PT-1116,Male,0,42,88.07,3396.79,Month-to-month,No,6,Bank transfer,1,1,0
+PT-1117,Male,0,33,94.2,3328.17,One year,Fiber optic,3,Mailed check,0,0,1
+PT-1118,Female,0,56,27.2,1644.04,One year,DSL,1,Electronic check,1,1,0
+PT-1119,Female,1,9,71.23,684.76,Month-to-month,Fiber optic,2,Bank transfer,1,0,0
+PT-1120,Male,0,22,23.84,501.33,Month-to-month,Fiber optic,0,Credit card,1,0,0
+PT-1121,Male,0,54,105.47,6333.31,One year,Fiber optic,2,Bank transfer,0,0,0
+PT-1122,Male,0,24,39.53,811.08,Month-to-month,DSL,1,Mailed check,0,0,0
+PT-1123,Female,1,36,40.5,1452.11,One year,Fiber optic,3,Electronic check,1,0,1
+PT-1124,Female,0,38,32.73,1250.74,Month-to-month,DSL,1,Credit card,0,0,0
+PT-1125,Female,0,55,75.05,4250.49,One year,DSL,0,Mailed check,1,1,0
+PT-1126,Male,0,58,53.3,2855.94,Two year,Fiber optic,4,Bank transfer,1,0,0
+PT-1127,Female,0,17,106.89,1970.64,One year,No,1,Mailed check,1,1,0
+PT-1128,Male,0,66,99.27,6324.1,Month-to-month,DSL,0,Credit card,1,1,0
+PT-1129,Female,0,58,55.06,2899.53,One year,Fiber optic,0,Credit card,0,0,0
+PT-1130,Female,0,62,70.57,4747.7,Two year,Fiber optic,4,Bank transfer,0,1,0
+PT-1131,Male,0,8,86.19,626.42,One year,DSL,2,Electronic check,1,0,1
+PT-1132,Female,0,4,78.65,339.36,Month-to-month,Fiber optic,0,Mailed check,1,1,0
+PT-1133,Male,1,57,88.26,4438.81,Month-to-month,DSL,1,Mailed check,0,0,0
+PT-1134,Male,0,42,69.73,2813.41,Month-to-month,Fiber optic,0,Electronic check,1,1,0
+PT-1135,Male,0,5,77.93,369.08,One year,DSL,0,Mailed check,1,0,0
+PT-1136,Male,0,14,67.05,1062.64,Month-to-month,Fiber optic,1,Bank transfer,1,0,0
+PT-1137,Male,0,52,69.06,3617.71,One year,Fiber optic,4,Mailed check,1,0,0
+PT-1138,Female,0,31,25.09,820.61,Month-to-month,Fiber optic,5,Mailed check,1,0,1
+PT-1139,Male,0,18,65.05,1108.71,One year,Fiber optic,5,Credit card,0,1,0
+PT-1140,Female,1,9,23.61,218.21,Month-to-month,Fiber optic,2,Electronic check,1,1,1
+PT-1141,Female,1,22,55.75,1098.55,Month-to-month,Fiber optic,0,Bank transfer,1,0,0
+PT-1142,Female,0,26,49.44,1193.02,Month-to-month,DSL,0,Electronic check,1,1,0
+PT-1143,Female,0,24,30.14,698.94,Month-to-month,No,2,Bank transfer,0,1,0
+PT-1144,Female,0,7,78.3,503.67,Two year,No,5,Mailed check,0,0,1
+PT-1145,Male,0,27,64.96,1869.65,One year,Fiber optic,0,Credit card,1,1,0
+PT-1146,Male,0,14,99.6,1541.93,One year,No,4,Bank transfer,0,0,0
+PT-1147,Male,0,7,53.12,388.1,Two year,Fiber optic,0,Electronic check,1,0,0
+PT-1148,Female,0,34,61.12,2347.55,Two year,No,3,Electronic check,0,0,0
+PT-1149,Male,0,31,60.97,2109.19,One year,DSL,4,Electronic check,0,0,1
+PT-1150,Female,0,5,64.77,355.95,Month-to-month,No,2,Electronic check,0,0,0
+PT-1151,Female,0,35,22.2,723.84,Two year,DSL,1,Electronic check,1,1,0
+PT-1152,Female,0,7,45.79,280.95,Month-to-month,No,2,Mailed check,1,1,0
+PT-1153,Male,0,45,56.63,2609.67,Month-to-month,No,2,Credit card,1,0,0
+PT-1154,Male,1,33,99.63,3122.88,Month-to-month,Fiber optic,0,Mailed check,0,0,0
+PT-1155,Male,1,44,68.62,3320.01,Month-to-month,Fiber optic,4,Mailed check,1,0,0
+PT-1156,Male,1,70,23.78,1466.75,Month-to-month,No,4,Mailed check,0,1,0
+PT-1157,Female,0,15,49.29,813.98,Month-to-month,No,0,Mailed check,1,1,0
+PT-1158,Male,0,59,34.01,2123.34,One year,Fiber optic,1,Electronic check,1,0,0
+PT-1159,Female,0,52,47.26,2243.16,One year,No,2,Bank transfer,0,0,0
+PT-1160,Male,0,33,60.73,1774.99,Two year,Fiber optic,2,Electronic check,1,0,0
+PT-1161,Male,0,55,75.73,4689.4,One year,Fiber optic,0,Credit card,1,0,1
+PT-1162,Female,0,69,89.28,6017.47,One year,No,0,Credit card,0,0,1
+PT-1163,Female,0,61,42.69,2285.39,Month-to-month,No,1,Credit card,1,0,0
+PT-1164,Female,0,42,47.88,2178.17,Two year,DSL,1,Credit card,0,0,0
+PT-1165,Male,1,57,26.22,1351.62,Month-to-month,Fiber optic,2,Electronic check,1,1,1
+PT-1166,Female,0,58,46.41,2419.44,Month-to-month,DSL,0,Electronic check,0,0,0
+PT-1167,Female,0,1,54.86,58.88,One year,DSL,0,Mailed check,1,1,0
+PT-1168,Female,0,57,92.76,5998.0,Month-to-month,DSL,3,Mailed check,0,0,0
+PT-1169,Female,0,68,100.79,6582.91,One year,Fiber optic,4,Credit card,0,0,1
+PT-1170,Female,0,52,65.64,3150.35,Two year,DSL,2,Electronic check,0,0,0
+PT-1171,Male,0,70,53.6,3485.24,Month-to-month,Fiber optic,2,Electronic check,0,0,1
+PT-1172,Male,0,2,53.47,107.27,Month-to-month,Fiber optic,3,Bank transfer,0,0,0
+PT-1173,Male,0,32,97.45,3400.2,Month-to-month,Fiber optic,1,Credit card,0,0,0
+PT-1174,Male,0,62,66.2,4704.5,One year,DSL,2,Credit card,1,0,0
+PT-1175,Female,0,56,23.86,1264.2,Month-to-month,DSL,1,Credit card,0,1,0
+PT-1176,Female,1,66,99.99,6888.47,One year,DSL,0,Bank transfer,1,0,0
+PT-1177,Male,0,9,70.55,673.9,One year,Fiber optic,3,Bank transfer,1,1,0
+PT-1178,Female,0,69,74.48,5785.61,Two year,Fiber optic,2,Credit card,1,1,0
+PT-1179,Male,0,44,28.19,1236.52,Month-to-month,Fiber optic,0,Bank transfer,1,0,0
+PT-1180,Male,0,42,101.65,4353.85,Month-to-month,DSL,0,Bank transfer,1,0,0
+PT-1181,Female,0,18,92.2,1753.37,Month-to-month,Fiber optic,1,Mailed check,1,1,0
+PT-1182,Male,0,32,38.52,1339.86,Two year,DSL,0,Credit card,1,0,0
+PT-1183,Female,1,59,68.37,3605.85,One year,DSL,5,Credit card,0,0,0
+PT-1184,Female,0,59,104.13,6237.01,Two year,Fiber optic,1,Credit card,0,0,0
+PT-1185,Female,0,14,62.87,850.31,Month-to-month,DSL,0,Electronic check,0,0,0
+PT-1186,Female,0,13,103.32,1418.4,Month-to-month,No,4,Electronic check,0,0,0
+PT-1187,Female,0,56,41.66,2137.3,One year,Fiber optic,3,Mailed check,0,0,0
+PT-1188,Female,0,22,92.51,2233.73,Month-to-month,Fiber optic,1,Mailed check,0,1,0
+PT-1189,Female,0,16,28.61,505.19,Month-to-month,Fiber optic,2,Mailed check,1,0,1
+PT-1190,Female,0,50,60.15,2765.86,Two year,Fiber optic,3,Credit card,1,0,0
+PT-1191,Female,1,49,22.07,1167.42,Month-to-month,Fiber optic,0,Bank transfer,1,0,0
+PT-1192,Female,0,27,53.57,1534.67,One year,Fiber optic,3,Credit card,0,0,0
+PT-1193,Female,0,52,44.67,2472.62,Two year,Fiber optic,5,Mailed check,0,0,0
+PT-1194,Male,0,45,52.36,2017.26,Month-to-month,Fiber optic,0,Credit card,0,0,0
+PT-1195,Male,0,47,102.04,4450.37,Month-to-month,DSL,0,Mailed check,0,0,0
+PT-1196,Male,0,21,28.31,629.34,Month-to-month,DSL,0,Bank transfer,1,0,0
+PT-1197,Female,0,24,40.62,919.78,One year,DSL,2,Mailed check,1,1,0
+PT-1198,Female,0,31,21.55,760.51,One year,DSL,2,Electronic check,1,0,0
+PT-1199,Female,1,48,85.09,3658.8,Two year,DSL,5,Bank transfer,0,1,0
+PT-1200,Male,0,18,35.03,624.69,Two year,DSL,2,Bank transfer,1,0,0
+PT-1201,Male,0,32,34.59,1142.08,Month-to-month,No,3,Credit card,1,1,0
+PT-1202,Female,1,60,106.59,7245.9,Month-to-month,Fiber optic,3,Credit card,1,1,0
+PT-1203,Male,1,64,31.36,1727.91,Month-to-month,No,2,Credit card,1,0,0
+PT-1204,Male,0,63,37.88,2039.96,Month-to-month,Fiber optic,1,Mailed check,1,1,0
+PT-1205,Male,0,51,42.0,1831.22,Month-to-month,Fiber optic,0,Credit card,1,0,0
+PT-1206,Female,0,32,105.3,3770.96,Two year,DSL,2,Electronic check,1,0,0
+PT-1207,Female,0,38,51.93,1980.78,Month-to-month,No,3,Bank transfer,1,0,0
+PT-1208,Male,0,13,33.13,457.97,Month-to-month,DSL,0,Mailed check,1,0,0
+PT-1209,Female,1,59,51.22,2864.73,Month-to-month,No,0,Credit card,1,1,1
+PT-1210,Male,0,49,49.71,2592.37,One year,Fiber optic,0,Mailed check,0,0,0
+PT-1211,Female,0,51,39.82,1753.01,Month-to-month,DSL,0,Mailed check,1,1,0
+PT-1212,Male,0,9,34.71,269.04,One year,Fiber optic,2,Mailed check,1,0,0
+PT-1213,Female,0,11,80.25,965.29,Month-to-month,Fiber optic,0,Bank transfer,1,1,0
+PT-1214,Male,1,67,81.43,5956.96,One year,DSL,3,Electronic check,1,0,0
+PT-1215,Female,0,52,24.62,1315.46,Two year,DSL,3,Mailed check,0,0,0
+PT-1216,Male,1,65,52.67,3672.64,Month-to-month,DSL,0,Electronic check,0,0,0
+PT-1217,Male,0,8,59.21,518.45,Month-to-month,Fiber optic,6,Electronic check,1,0,0
+PT-1218,Female,0,28,56.48,1747.23,Month-to-month,Fiber optic,2,Mailed check,1,0,0
+PT-1219,Female,0,13,27.39,387.71,Month-to-month,Fiber optic,1,Mailed check,0,0,0
+PT-1220,Male,0,38,108.53,3959.3,One year,No,2,Bank transfer,0,0,0
+PT-1221,Female,0,13,23.5,313.09,Two year,Fiber optic,2,Mailed check,1,0,0
+PT-1222,Female,1,68,26.45,1859.43,Month-to-month,Fiber optic,0,Bank transfer,0,1,0
+PT-1223,Male,0,29,82.01,2044.4,Two year,Fiber optic,0,Bank transfer,1,0,0
+PT-1224,Female,0,31,91.48,3131.2,One year,DSL,0,Credit card,0,1,0
+PT-1225,Male,0,16,33.29,612.25,Month-to-month,Fiber optic,1,Bank transfer,0,1,0
+PT-1226,Female,0,71,85.64,5720.26,One year,No,3,Electronic check,1,0,0
+PT-1227,Female,0,7,22.82,176.66,Month-to-month,DSL,0,Credit card,1,0,1
+PT-1228,Female,0,41,106.23,4684.07,Two year,DSL,2,Mailed check,1,0,0
+PT-1229,Female,0,6,99.58,550.88,One year,No,4,Credit card,0,0,0
+PT-1230,Female,1,48,50.35,2130.12,One year,No,0,Mailed check,0,0,0
+PT-1231,Female,1,51,100.06,5858.77,One year,Fiber optic,0,Electronic check,1,1,0
+PT-1232,Female,1,59,24.01,1345.45,Month-to-month,Fiber optic,3,Electronic check,1,0,0
+PT-1233,Male,0,29,60.43,1647.47,One year,DSL,2,Bank transfer,1,0,1
+PT-1234,Male,0,29,105.68,3018.06,Month-to-month,Fiber optic,6,Electronic check,1,1,0
+PT-1235,Female,0,65,98.17,6826.61,One year,Fiber optic,2,Credit card,0,1,0
+PT-1236,Female,0,31,103.31,3095.99,One year,DSL,0,Mailed check,0,1,0
+PT-1237,Female,0,62,21.86,1204.83,One year,DSL,0,Credit card,0,0,0
+PT-1238,Male,0,13,88.86,1081.98,Two year,Fiber optic,0,Electronic check,0,0,0
+PT-1239,Male,0,9,90.08,882.33,Two year,No,3,Electronic check,1,1,1
+PT-1240,Female,0,46,91.01,4002.14,Month-to-month,DSL,3,Bank transfer,0,1,0
+PT-1241,Male,0,21,33.12,624.65,Two year,Fiber optic,0,Bank transfer,0,0,0
+PT-1242,Female,0,66,89.83,5755.29,Month-to-month,Fiber optic,2,Credit card,0,1,1
+PT-1243,Female,1,59,54.85,3374.52,Month-to-month,DSL,1,Bank transfer,0,1,0
+PT-1244,Female,0,1,107.26,118.91,Month-to-month,No,2,Electronic check,0,0,0
+PT-1245,Female,0,5,90.75,472.55,Month-to-month,Fiber optic,1,Electronic check,0,0,0
+PT-1246,Male,0,49,109.94,5032.59,Two year,No,2,Bank transfer,0,0,0
+PT-1247,Female,0,3,22.35,62.73,Month-to-month,DSL,3,Electronic check,1,0,1
+PT-1248,Female,0,41,99.96,3708.14,Month-to-month,No,3,Mailed check,0,0,0
+PT-1249,Male,1,70,46.75,3323.91,Month-to-month,No,2,Credit card,0,1,0
+PT-1250,Male,0,9,28.49,290.62,Month-to-month,No,1,Electronic check,1,0,0
+PT-1251,Male,0,21,73.18,1564.99,One year,DSL,3,Electronic check,0,0,0
+PT-1252,Male,0,66,41.47,2661.4,One year,No,4,Mailed check,1,1,0
+PT-1253,Female,0,50,37.32,1881.55,Month-to-month,Fiber optic,0,Bank transfer,1,0,0
+PT-1254,Male,0,33,78.35,2583.75,Two year,Fiber optic,0,Mailed check,1,1,0
+PT-1255,Male,1,16,107.05,1583.71,One year,DSL,2,Electronic check,1,0,0
+PT-1256,Female,0,1,78.67,83.8,Two year,DSL,2,Electronic check,1,0,0
+PT-1257,Male,0,48,49.26,2301.44,One year,Fiber optic,0,Mailed check,0,0,0
+PT-1258,Male,0,63,105.42,6516.83,Month-to-month,Fiber optic,2,Mailed check,0,0,0
+PT-1259,Female,0,53,29.94,1485.52,Month-to-month,DSL,2,Electronic check,1,0,0
+PT-1260,Male,0,26,81.96,1987.51,Month-to-month,Fiber optic,0,Mailed check,1,0,0
+PT-1261,Male,0,31,78.07,2336.37,Two year,Fiber optic,1,Bank transfer,1,1,0
+PT-1262,Male,0,67,91.95,6616.05,Month-to-month,Fiber optic,1,Electronic check,0,0,0
+PT-1263,Male,1,68,102.96,7269.12,Two year,DSL,3,Credit card,1,0,0
+PT-1264,Male,0,40,84.88,3318.65,One year,DSL,1,Mailed check,1,1,0
+PT-1265,Female,0,49,62.47,2782.11,Month-to-month,DSL,0,Mailed check,1,0,0
+PT-1266,Male,0,14,70.86,884.01,Month-to-month,DSL,3,Credit card,1,1,0
+PT-1267,Male,0,71,59.72,3776.74,One year,DSL,3,Credit card,0,0,0
+PT-1268,Female,0,12,50.67,560.01,Month-to-month,No,2,Mailed check,0,0,0
+PT-1269,Male,0,63,93.54,5391.57,Month-to-month,DSL,4,Bank transfer,0,0,0
+PT-1270,Female,0,72,82.63,5104.97,Month-to-month,Fiber optic,3,Electronic check,1,0,1
+PT-1271,Male,0,6,85.92,468.48,Month-to-month,DSL,0,Mailed check,0,0,1
+PT-1272,Male,0,39,95.13,3634.19,One year,No,2,Mailed check,1,0,1
+PT-1273,Female,0,69,35.76,2721.27,Month-to-month,DSL,2,Credit card,0,0,0
+PT-1274,Male,0,67,84.24,6293.99,One year,No,2,Bank transfer,1,0,0
+PT-1275,Male,0,55,35.49,2149.11,Month-to-month,DSL,0,Electronic check,0,0,0
+PT-1276,Female,0,15,91.69,1221.36,Month-to-month,Fiber optic,0,Electronic check,1,0,0
+PT-1277,Male,0,67,36.18,2697.35,One year,DSL,5,Electronic check,0,1,0
+PT-1278,Female,1,69,28.42,1820.46,One year,No,3,Electronic check,1,0,0
+PT-1279,Male,0,29,82.89,2107.7,Month-to-month,Fiber optic,0,Electronic check,1,0,1
+PT-1280,Female,0,4,22.98,78.45,Month-to-month,Fiber optic,3,Electronic check,0,0,0
+PT-1281,Male,0,25,63.27,1726.66,Month-to-month,No,1,Electronic check,0,0,0
+PT-1282,Male,1,38,87.73,3094.51,Month-to-month,No,1,Credit card,1,0,0
+PT-1283,Male,0,23,94.19,2029.22,One year,DSL,1,Credit card,1,0,1
+PT-1284,Male,0,34,99.72,3266.28,One year,DSL,2,Bank transfer,0,0,0
+PT-1285,Male,0,53,33.43,1649.22,Month-to-month,DSL,0,Mailed check,1,1,1
+PT-1286,Male,0,7,56.61,365.41,One year,Fiber optic,0,Credit card,1,0,0
+PT-1287,Male,0,9,25.46,249.9,Two year,No,1,Electronic check,1,1,0
+PT-1288,Male,1,61,64.86,4467.91,One year,Fiber optic,4,Mailed check,0,0,0
+PT-1289,Male,0,19,82.7,1627.43,Month-to-month,DSL,0,Bank transfer,1,0,1
+PT-1290,Male,0,17,53.14,964.42,One year,DSL,0,Bank transfer,1,0,0
+PT-1291,Male,0,38,105.09,4151.12,Month-to-month,No,0,Electronic check,0,0,0
+PT-1292,Female,0,70,81.49,5351.49,Two year,No,3,Electronic check,0,0,0
+PT-1293,Female,0,38,66.17,2861.43,One year,No,3,Electronic check,1,0,0
+PT-1294,Male,0,43,85.29,3265.06,One year,Fiber optic,2,Bank transfer,0,0,0
+PT-1295,Male,0,31,38.42,1089.59,Two year,No,2,Bank transfer,0,0,0
+PT-1296,Male,0,12,28.51,352.37,One year,Fiber optic,4,Electronic check,0,1,0
+PT-1297,Male,1,12,76.78,837.88,Month-to-month,Fiber optic,1,Credit card,0,1,1
+PT-1298,Male,1,65,64.7,4788.01,Two year,DSL,3,Credit card,0,0,0
+PT-1299,Male,0,4,72.75,276.56,Month-to-month,Fiber optic,3,Electronic check,0,1,0
+PT-1300,Female,0,34,85.63,3193.57,One year,No,0,Credit card,0,1,0
+PT-1301,Female,0,45,32.05,1250.98,Month-to-month,DSL,3,Bank transfer,0,1,0
+PT-1302,Male,0,68,62.96,4715.49,One year,Fiber optic,3,Credit card,0,0,0
+PT-1303,Male,0,65,33.31,1996.36,Month-to-month,DSL,3,Electronic check,1,0,0
+PT-1304,Female,0,47,76.74,3907.61,Month-to-month,Fiber optic,2,Credit card,1,0,0
+PT-1305,Male,1,13,30.49,352.23,One year,DSL,3,Electronic check,0,0,0
+PT-1306,Male,0,50,33.86,1670.46,Month-to-month,Fiber optic,2,Electronic check,0,0,0
+PT-1307,Female,0,7,93.57,656.77,Month-to-month,Fiber optic,0,Credit card,0,1,1
+PT-1308,Female,0,6,30.42,171.79,One year,Fiber optic,2,Credit card,0,0,0
+PT-1309,Female,1,68,32.28,1896.15,Month-to-month,Fiber optic,1,Bank transfer,1,1,0
+PT-1310,Male,1,48,109.39,5378.07,Month-to-month,DSL,1,Mailed check,0,1,0
+PT-1311,Female,1,22,56.26,1274.05,One year,No,0,Credit card,1,1,0
+PT-1312,Female,0,67,46.6,3155.23,Month-to-month,Fiber optic,3,Mailed check,0,0,0
+PT-1313,Female,0,65,99.86,6626.2,One year,No,6,Electronic check,0,0,0
+PT-1314,Male,0,52,70.75,4187.4,Month-to-month,Fiber optic,0,Electronic check,1,0,0
+PT-1315,Male,0,54,107.51,4987.87,Month-to-month,Fiber optic,0,Mailed check,0,0,0
+PT-1316,Female,0,67,32.47,2434.63,One year,No,6,Bank transfer,0,0,0
+PT-1317,Male,0,56,50.72,2882.29,Two year,DSL,0,Mailed check,1,1,0
+PT-1318,Female,1,49,51.02,2597.74,Two year,DSL,0,Credit card,1,0,0
+PT-1319,Male,0,68,48.23,3119.12,Two year,DSL,3,Credit card,0,0,0
+PT-1320,Female,1,35,76.34,2303.63,Month-to-month,No,0,Credit card,0,0,1
+PT-1321,Female,1,51,101.66,5012.46,Two year,DSL,3,Mailed check,0,0,0
+PT-1322,Female,0,7,105.08,708.02,Month-to-month,Fiber optic,1,Electronic check,1,1,0
+PT-1323,Female,0,59,56.7,3021.33,One year,DSL,0,Credit card,0,0,0
+PT-1324,Male,0,35,21.51,751.78,Month-to-month,DSL,0,Mailed check,0,1,0
+PT-1325,Male,0,53,80.43,4385.96,Month-to-month,Fiber optic,5,Credit card,1,0,0
+PT-1326,Male,0,3,55.76,168.48,One year,DSL,4,Mailed check,0,0,0
+PT-1327,Male,0,41,52.21,2417.14,Month-to-month,No,0,Electronic check,1,0,0
+PT-1328,Male,0,11,74.26,694.44,Month-to-month,Fiber optic,3,Mailed check,1,0,0
+PT-1329,Female,0,16,37.13,584.72,Two year,Fiber optic,1,Mailed check,1,0,0
+PT-1330,Female,0,66,23.87,1725.46,Month-to-month,DSL,4,Electronic check,0,0,0
+PT-1331,Female,0,51,62.34,2805.72,Month-to-month,Fiber optic,2,Mailed check,0,0,1
+PT-1332,Male,0,63,100.48,6499.24,Two year,DSL,0,Mailed check,1,1,0
+PT-1333,Female,0,70,50.61,3893.16,One year,Fiber optic,0,Mailed check,0,0,0
+PT-1334,Male,1,41,56.76,2214.39,One year,Fiber optic,3,Electronic check,1,1,0
+PT-1335,Female,0,16,60.82,1031.54,Month-to-month,No,2,Mailed check,0,0,0
+PT-1336,Female,1,19,27.59,577.79,Month-to-month,Fiber optic,4,Bank transfer,0,0,0
+PT-1337,Female,0,43,68.52,2899.76,Month-to-month,DSL,0,Mailed check,0,1,1
+PT-1338,Female,0,6,70.18,425.41,One year,DSL,0,Bank transfer,0,0,1
+PT-1339,Male,0,5,105.63,558.54,Month-to-month,No,0,Bank transfer,1,1,1
+PT-1340,Female,1,66,69.82,4008.17,Month-to-month,DSL,3,Credit card,0,1,0
+PT-1341,Male,0,23,41.18,959.63,Month-to-month,Fiber optic,0,Mailed check,0,1,0
+PT-1342,Female,0,9,84.75,800.21,Month-to-month,Fiber optic,0,Credit card,1,1,1
+PT-1343,Female,1,64,84.67,4856.26,Two year,DSL,0,Electronic check,1,1,0
+PT-1344,Female,0,31,53.18,1745.27,Two year,Fiber optic,0,Bank transfer,1,0,0
+PT-1345,Female,0,5,22.76,100.99,Month-to-month,Fiber optic,2,Bank transfer,1,0,1
+PT-1346,Female,0,51,37.65,1835.48,Two year,DSL,0,Mailed check,0,1,0
+PT-1347,Female,0,29,97.97,2580.8,Two year,No,3,Mailed check,1,0,0
+PT-1348,Female,0,69,88.53,6516.17,Two year,DSL,1,Bank transfer,1,0,0
+PT-1349,Male,0,29,98.15,2609.2,One year,Fiber optic,1,Electronic check,1,0,0
+PT-1350,Female,1,34,106.06,4092.4,One year,DSL,3,Bank transfer,1,1,0
+PT-1351,Female,0,1,37.47,38.91,Month-to-month,Fiber optic,0,Electronic check,1,1,0
+PT-1352,Male,0,67,94.97,6045.38,Month-to-month,Fiber optic,1,Electronic check,1,0,0
+PT-1353,Male,0,38,60.83,2191.41,Month-to-month,DSL,1,Mailed check,1,0,0
+PT-1354,Male,0,55,60.26,3132.66,Month-to-month,Fiber optic,0,Mailed check,0,0,0
+PT-1355,Male,0,46,35.96,1596.07,One year,No,1,Electronic check,0,0,1
+PT-1356,Female,0,31,96.02,3000.54,Two year,DSL,0,Mailed check,0,0,0
+PT-1357,Female,0,8,106.0,940.61,One year,Fiber optic,2,Bank transfer,1,0,1
+PT-1358,Female,1,44,108.48,5336.12,Month-to-month,Fiber optic,0,Credit card,1,0,0
+PT-1359,Female,0,65,31.6,2336.22,Two year,No,2,Bank transfer,0,0,0
+PT-1360,Male,0,6,34.03,192.35,One year,Fiber optic,0,Mailed check,0,0,1
+PT-1361,Male,0,41,26.23,915.91,Month-to-month,DSL,2,Mailed check,0,0,0
+PT-1362,Female,0,63,32.97,2365.68,One year,No,4,Credit card,1,1,0
+PT-1363,Female,0,20,87.22,1550.63,Two year,No,0,Bank transfer,0,0,0
+PT-1364,Male,1,14,86.33,1096.37,Month-to-month,DSL,0,Mailed check,0,1,0
+PT-1365,Male,0,49,86.45,4725.93,One year,Fiber optic,0,Credit card,1,0,0
+PT-1366,Female,0,67,83.56,5875.91,Month-to-month,DSL,2,Bank transfer,1,0,0
+PT-1367,Female,1,35,63.55,2143.45,Two year,No,0,Credit card,1,1,0
+PT-1368,Male,0,7,69.44,439.66,Month-to-month,DSL,4,Credit card,0,0,0
+PT-1369,Male,0,57,90.85,5533.13,Two year,Fiber optic,6,Electronic check,1,0,0
+PT-1370,Male,0,22,105.98,2494.4,One year,Fiber optic,0,Electronic check,1,0,0
+PT-1371,Male,0,22,49.26,1039.4,Two year,Fiber optic,3,Bank transfer,1,0,0
+PT-1372,Female,0,64,39.7,2775.75,Month-to-month,No,0,Bank transfer,1,0,0
+PT-1373,Female,1,15,36.24,534.93,Two year,No,0,Mailed check,1,0,0
+PT-1374,Female,0,60,88.38,5956.1,One year,DSL,2,Bank transfer,0,1,0
+PT-1375,Male,0,20,22.53,474.29,Two year,DSL,0,Electronic check,0,0,0
+PT-1376,Male,0,71,64.01,4968.5,One year,Fiber optic,4,Credit card,1,1,0
+PT-1377,Female,1,46,36.62,1753.97,Month-to-month,DSL,3,Electronic check,0,0,0
+PT-1378,Female,0,50,78.09,4273.09,Two year,Fiber optic,0,Electronic check,1,0,0
+PT-1379,Male,0,12,22.06,236.86,One year,Fiber optic,1,Bank transfer,0,0,0
+PT-1380,Female,0,66,37.36,2548.67,Month-to-month,DSL,0,Credit card,1,0,0
+PT-1381,Female,0,15,33.07,428.85,Month-to-month,DSL,2,Credit card,1,0,0
+PT-1382,Male,0,15,74.53,1200.46,Month-to-month,DSL,2,Credit card,0,0,0
+PT-1383,Male,0,5,60.18,321.03,One year,No,2,Mailed check,0,0,0
+PT-1384,Male,0,49,50.36,2494.4,One year,Fiber optic,0,Bank transfer,0,0,0
+PT-1385,Female,0,13,28.11,313.11,One year,Fiber optic,0,Electronic check,1,0,0
+PT-1386,Female,0,17,21.54,401.69,Month-to-month,No,1,Bank transfer,1,0,0
+PT-1387,Male,0,45,31.54,1502.14,Month-to-month,DSL,6,Electronic check,0,0,1
+PT-1388,Female,1,42,68.57,2782.63,One year,DSL,5,Electronic check,1,0,0
+PT-1389,Male,0,19,109.11,2340.63,Month-to-month,Fiber optic,2,Credit card,1,0,1
+PT-1390,Male,0,11,58.81,717.16,Month-to-month,DSL,3,Mailed check,1,1,0
+PT-1391,Male,0,41,43.5,1978.29,Two year,Fiber optic,1,Bank transfer,0,0,0
+PT-1392,Male,1,47,101.72,4645.36,Month-to-month,No,0,Credit card,1,0,0
+PT-1393,Female,1,9,53.38,493.41,One year,DSL,1,Mailed check,1,0,0
+PT-1394,Male,0,60,59.08,3130.65,One year,Fiber optic,5,Electronic check,0,0,1
+PT-1395,Female,1,30,29.03,844.42,One year,DSL,3,Electronic check,0,1,0
+PT-1396,Female,0,19,73.35,1547.69,Month-to-month,DSL,4,Electronic check,1,0,1
+PT-1397,Male,0,58,29.15,1464.43,One year,DSL,5,Bank transfer,1,1,0
+PT-1398,Female,0,26,92.09,2160.88,One year,DSL,1,Credit card,0,0,0
+PT-1399,Female,0,55,83.31,4714.23,Month-to-month,DSL,0,Mailed check,1,0,0
+PT-1400,Female,0,56,100.07,5497.68,Month-to-month,Fiber optic,1,Electronic check,0,0,0
+PT-1401,Female,0,5,25.18,117.06,Month-to-month,DSL,4,Electronic check,0,0,1
+PT-1402,Female,0,16,102.25,1408.93,One year,DSL,1,Mailed check,0,1,0
+PT-1403,Female,1,1,48.35,50.78,One year,DSL,2,Electronic check,1,1,0
+PT-1404,Female,0,68,109.07,7725.78,One year,DSL,3,Credit card,0,0,0
+PT-1405,Female,0,53,101.73,6128.39,Month-to-month,Fiber optic,4,Bank transfer,0,0,0
+PT-1406,Female,0,24,38.98,988.53,One year,Fiber optic,1,Bank transfer,0,1,0
+PT-1407,Male,0,34,34.86,1160.63,Two year,Fiber optic,4,Credit card,0,0,0
+PT-1408,Male,0,4,76.77,321.86,Month-to-month,No,2,Electronic check,0,0,0
+PT-1409,Female,0,15,27.52,405.92,Month-to-month,No,0,Bank transfer,0,0,0
+PT-1410,Female,0,39,68.16,2387.67,Month-to-month,No,1,Bank transfer,0,1,0
+PT-1411,Female,0,2,68.52,119.02,Month-to-month,Fiber optic,0,Electronic check,0,0,0
+PT-1412,Male,0,52,28.24,1533.66,Month-to-month,DSL,2,Credit card,1,0,0
+PT-1413,Female,1,65,33.54,2328.05,Month-to-month,No,0,Electronic check,1,0,0
+PT-1414,Male,0,34,101.42,3022.52,One year,DSL,0,Credit card,0,0,0
+PT-1415,Male,0,63,45.57,3210.05,One year,Fiber optic,1,Electronic check,1,1,0
+PT-1416,Female,0,38,77.6,3289.18,Two year,Fiber optic,3,Bank transfer,1,0,0
+PT-1417,Female,1,55,22.31,1209.77,Month-to-month,DSL,4,Electronic check,1,0,0
+PT-1418,Female,1,32,94.3,2933.07,One year,DSL,2,Mailed check,1,1,0
+PT-1419,Male,1,6,99.23,530.63,Month-to-month,Fiber optic,5,Credit card,0,0,1
+PT-1420,Male,0,39,26.65,1194.85,Month-to-month,No,1,Mailed check,1,1,0
+PT-1421,Male,0,53,29.72,1439.7,One year,No,0,Electronic check,1,0,0
+PT-1422,Male,0,43,90.18,4110.79,Two year,Fiber optic,6,Bank transfer,1,0,1
+PT-1423,Male,1,13,58.6,796.15,Two year,Fiber optic,1,Credit card,1,0,0
+PT-1424,Female,0,67,31.41,1952.12,One year,Fiber optic,5,Electronic check,0,0,0
+PT-1425,Male,0,35,27.17,885.58,One year,No,2,Mailed check,1,1,0
+PT-1426,Female,1,55,75.48,4199.23,Two year,DSL,0,Credit card,1,0,0
+PT-1427,Female,1,40,81.98,3639.98,Month-to-month,Fiber optic,5,Electronic check,0,0,0
+PT-1428,Male,0,62,109.52,6273.63,Two year,No,1,Electronic check,1,0,0
+PT-1429,Male,0,8,40.44,332.84,One year,Fiber optic,0,Mailed check,1,1,0
+PT-1430,Male,1,34,49.49,1732.88,Month-to-month,DSL,3,Electronic check,1,0,0
+PT-1431,Female,0,7,46.4,312.75,Month-to-month,No,2,Credit card,1,0,0
+PT-1432,Female,0,34,34.56,1287.91,Two year,DSL,0,Bank transfer,1,0,0
+PT-1433,Male,1,58,90.43,4943.65,Month-to-month,DSL,2,Electronic check,1,0,0
+PT-1434,Female,0,52,98.83,5575.9,Two year,DSL,0,Credit card,1,1,0
+PT-1435,Male,0,43,74.33,3049.51,Two year,DSL,3,Mailed check,0,0,0
+PT-1436,Male,0,55,106.79,5835.33,One year,DSL,1,Mailed check,1,1,1
+PT-1437,Male,0,11,35.92,419.91,Month-to-month,Fiber optic,4,Bank transfer,1,0,1
+PT-1438,Male,0,61,72.99,5096.18,Month-to-month,Fiber optic,1,Mailed check,0,0,1
+PT-1439,Female,0,2,103.79,193.46,Month-to-month,Fiber optic,3,Credit card,0,0,0
+PT-1440,Male,0,27,67.59,1676.46,One year,Fiber optic,0,Mailed check,1,0,0
+PT-1441,Female,1,7,61.51,411.24,Two year,DSL,6,Mailed check,1,0,1
+PT-1442,Male,1,42,99.08,3989.12,One year,No,1,Electronic check,0,1,0
+PT-1443,Female,0,48,45.67,2170.6,One year,No,2,Mailed check,0,0,0
+PT-1444,Female,0,69,75.33,5566.52,Two year,Fiber optic,1,Electronic check,1,0,0
+PT-1445,Female,0,32,79.8,2664.73,One year,DSL,2,Credit card,0,0,0
+PT-1446,Female,0,70,25.47,1968.39,One year,Fiber optic,3,Mailed check,0,0,0
+PT-1447,Male,0,50,74.8,4068.55,Month-to-month,Fiber optic,0,Mailed check,1,0,0
+PT-1448,Male,0,14,66.32,988.41,Month-to-month,Fiber optic,1,Bank transfer,0,0,0
+PT-1449,Male,0,33,42.9,1487.91,Month-to-month,DSL,4,Bank transfer,0,0,0
+PT-1450,Male,0,71,29.64,2193.95,One year,No,2,Bank transfer,0,1,0
+PT-1451,Male,1,59,106.43,6302.9,Month-to-month,Fiber optic,0,Credit card,0,1,0
+PT-1452,Female,0,62,72.09,3977.27,Month-to-month,DSL,3,Credit card,0,0,0
+PT-1453,Male,0,70,87.29,5892.78,Month-to-month,DSL,5,Mailed check,1,0,0
+PT-1454,Male,1,14,33.59,415.62,One year,Fiber optic,0,Electronic check,1,0,0
+PT-1455,Male,0,67,98.02,7403.01,One year,Fiber optic,2,Electronic check,0,0,0
+PT-1456,Male,0,3,25.67,77.52,Month-to-month,Fiber optic,3,Electronic check,0,1,0
+PT-1457,Female,0,16,21.01,294.17,Month-to-month,Fiber optic,2,Mailed check,1,0,0
+PT-1458,Male,1,66,87.96,6303.75,Month-to-month,Fiber optic,0,Mailed check,0,0,0
+PT-1459,Female,0,5,20.33,108.77,Two year,Fiber optic,2,Electronic check,1,0,0
+PT-1460,Female,0,10,49.83,558.54,Month-to-month,Fiber optic,0,Credit card,1,0,1
+PT-1461,Male,0,48,46.92,1972.81,Month-to-month,No,3,Bank transfer,0,0,0
+PT-1462,Male,0,35,89.52,3104.47,One year,DSL,1,Mailed check,1,0,0
+PT-1463,Female,1,19,54.01,1095.65,One year,Fiber optic,0,Electronic check,0,1,0
+PT-1464,Male,0,68,109.55,7807.89,Month-to-month,Fiber optic,3,Bank transfer,0,0,0
+PT-1465,Female,0,47,60.82,2496.25,Month-to-month,Fiber optic,1,Electronic check,0,0,0
+PT-1466,Female,0,67,71.96,5300.13,Month-to-month,DSL,0,Electronic check,0,1,0
+PT-1467,Male,0,60,52.51,3160.52,Two year,DSL,0,Electronic check,0,0,0
+PT-1468,Male,0,13,68.76,973.59,One year,DSL,2,Electronic check,1,0,0
+PT-1469,Male,0,19,74.28,1401.81,One year,DSL,4,Bank transfer,1,0,0
+PT-1470,Male,1,45,81.29,3518.51,Two year,DSL,3,Credit card,0,0,0
+PT-1471,Male,0,47,64.73,2586.02,One year,No,4,Mailed check,1,0,0
+PT-1472,Male,0,22,39.01,764.51,Two year,Fiber optic,2,Mailed check,0,1,0
+PT-1473,Female,0,8,28.01,225.44,Two year,No,3,Credit card,0,0,0
+PT-1474,Female,0,50,104.74,5303.37,Two year,Fiber optic,4,Electronic check,1,0,0
+PT-1475,Female,1,8,28.23,230.88,Two year,Fiber optic,4,Electronic check,0,0,0
+PT-1476,Male,0,47,40.47,2082.94,One year,DSL,0,Mailed check,0,0,1
+PT-1477,Male,0,41,81.24,2835.81,Month-to-month,No,3,Bank transfer,1,1,0
+PT-1478,Male,1,67,62.15,4280.35,One year,No,0,Credit card,1,0,0
+PT-1479,Female,0,15,57.21,918.06,Two year,Fiber optic,0,Credit card,0,0,0
+PT-1480,Male,0,10,23.2,220.33,Month-to-month,Fiber optic,1,Credit card,0,1,1
+PT-1481,Female,0,28,107.37,3262.21,One year,Fiber optic,0,Mailed check,1,0,0
+PT-1482,Male,0,35,108.11,3710.54,One year,Fiber optic,1,Mailed check,1,0,0
+PT-1483,Male,1,39,107.09,3948.37,Month-to-month,No,2,Bank transfer,1,0,0
+PT-1484,Female,0,7,60.1,413.67,Month-to-month,DSL,0,Bank transfer,1,1,0
+PT-1485,Male,0,51,34.35,1785.79,One year,DSL,6,Bank transfer,0,0,0
+PT-1486,Female,0,14,100.05,1232.5,Month-to-month,DSL,2,Credit card,0,1,0
+PT-1487,Male,0,43,92.49,4220.66,Month-to-month,Fiber optic,1,Electronic check,1,1,0
+PT-1488,Male,0,35,82.88,2538.05,Month-to-month,DSL,0,Electronic check,0,0,0
+PT-1489,Female,1,46,98.47,3931.06,Month-to-month,Fiber optic,3,Electronic check,1,0,0
+PT-1490,Male,0,34,59.61,2264.23,Month-to-month,Fiber optic,0,Electronic check,1,0,0
+PT-1491,Male,0,60,73.55,3816.61,Month-to-month,Fiber optic,0,Mailed check,0,0,1
+PT-1492,Female,0,28,107.29,3250.03,Month-to-month,Fiber optic,0,Electronic check,0,0,0
+PT-1493,Male,0,55,24.1,1369.87,Two year,DSL,3,Electronic check,0,1,0
+PT-1494,Male,1,46,51.15,2529.4,Two year,Fiber optic,2,Bank transfer,0,0,0
+PT-1495,Male,0,8,56.68,451.66,Two year,DSL,4,Electronic check,0,1,0
+PT-1496,Female,0,34,23.97,862.77,Month-to-month,Fiber optic,2,Bank transfer,0,1,0
+PT-1497,Male,0,37,47.61,1866.68,Two year,No,3,Credit card,1,0,0
+PT-1498,Male,0,21,76.96,1775.4,Month-to-month,DSL,2,Credit card,1,0,1
+PT-1499,Female,0,37,29.52,1104.44,Month-to-month,DSL,3,Mailed check,0,0,0
+PT-1500,Male,0,2,86.35,148.45,Month-to-month,No,6,Credit card,0,0,1
